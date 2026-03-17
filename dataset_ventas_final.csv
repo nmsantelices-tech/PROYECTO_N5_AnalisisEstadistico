@@ -1,0 +1,1301 @@
+venta_id,cliente_id,fecha_venta,producto_id,cantidad,precio_unitario,total_venta,canal_venta,nombre_producto,categoria_id,nombre_categoria,año_venta,mes_venta,trimestre,clasificacion_venta
+2025-001,20,2025-08-09,5,3,495097,1485291,Tienda Física,Audífonos,2,Accesorios,2025,8,3,Grande
+2025-002,339,2025-02-28,3,2,55095,110190,Tienda Física,Teclado,2,Accesorios,2025,2,1,Pequeña
+2025-003,62,2025-11-27,4,3,427339,1282017,App,Monitor,1,Tecnología,2025,11,4,Grande
+2025-004,479,2025-08-23,3,4,280170,1120680,App,Teclado,2,Accesorios,2025,8,3,Grande
+2025-005,62,2025-05-04,1,1,666030,666030,App,Notebook,1,Tecnología,2025,5,2,Mediana
+2025-006,317,2025-07-20,1,4,686999,2747996,App,Notebook,1,Tecnología,2025,7,3,Grande
+2025-007,314,2025-11-14,5,4,173244,692976,Tienda Física,Audífonos,2,Accesorios,2025,11,4,Mediana
+2025-008,480,2025-07-30,2,4,73972,295888,Web,Mouse,2,Accesorios,2025,7,3,Mediana
+2025-009,59,2025-08-08,4,1,176782,176782,App,Monitor,1,Tecnología,2025,8,3,Pequeña
+2025-010,413,2025-08-03,2,1,4914212,4914212,Tienda Física,Mouse,2,Accesorios,2025,8,3,Grande
+2025-011,387,2025-10-19,5,4,580201,2320804,App,Audífonos,2,Accesorios,2025,10,4,Grande
+2025-012,485,2025-06-19,5,2,94811,189622,Web,Audífonos,2,Accesorios,2025,6,2,Pequeña
+2025-013,269,2025-04-14,3,2,464151,928302,Tienda Física,Teclado,2,Accesorios,2025,4,2,Mediana
+2025-014,313,2025-08-10,5,3,208237,624711,App,Audífonos,2,Accesorios,2025,8,3,Mediana
+2025-015,300,2025-03-22,3,3,293983,881949,App,Teclado,2,Accesorios,2025,3,1,Mediana
+2025-016,2,2025-12-12,2,4,59522,238088,Tienda Física,Mouse,2,Accesorios,2025,12,4,Mediana
+2025-017,146,2025-03-03,6,4,777344,3109376,App,Tablet,1,Tecnología,2025,3,1,Grande
+2025-018,239,2025-03-02,3,2,627693,1255386,Web,Teclado,2,Accesorios,2025,3,1,Grande
+2025-019,478,2025-04-20,5,4,47019,188076,Web,Audífonos,2,Accesorios,2025,4,2,Pequeña
+2025-020,411,2025-07-26,4,3,662873,1988619,Tienda Física,Monitor,1,Tecnología,2025,7,3,Grande
+2025-021,375,2025-12-23,6,4,35939,143756,Web,Tablet,1,Tecnología,2025,12,4,Pequeña
+2025-022,28,2025-01-22,1,1,246094,246094,App,Notebook,1,Tecnología,2025,1,1,Mediana
+2025-023,381,2025-01-05,5,4,474462,1897848,App,Audífonos,2,Accesorios,2025,1,1,Grande
+2025-024,178,2025-07-06,6,1,600189,600189,Tienda Física,Tablet,1,Tecnología,2025,7,3,Mediana
+2025-025,413,2025-09-15,5,2,392865,785730,Tienda Física,Audífonos,2,Accesorios,2025,9,3,Mediana
+2025-026,481,2025-02-07,6,1,513551,513551,Tienda Física,Tablet,1,Tecnología,2025,2,1,Mediana
+2025-027,276,2025-04-01,4,3,598574,1795722,Web,Monitor,1,Tecnología,2025,4,2,Grande
+2025-028,458,2025-06-12,3,1,33386,33386,Tienda Física,Teclado,2,Accesorios,2025,6,2,Pequeña
+2025-029,143,2025-07-06,5,1,479450,479450,Web,Audífonos,2,Accesorios,2025,7,3,Mediana
+2025-030,499,2025-10-31,6,3,124589,373767,Web,Tablet,1,Tecnología,2025,10,4,Mediana
+2025-031,291,2025-04-24,6,2,267438,534876,Web,Tablet,1,Tecnología,2025,4,2,Mediana
+2025-032,480,2025-07-26,4,4,337350,1349400,Tienda Física,Monitor,1,Tecnología,2025,7,3,Grande
+2025-033,442,2025-07-16,3,3,449503,1348509,Web,Teclado,2,Accesorios,2025,7,3,Grande
+2025-034,125,2025-03-09,2,3,610600,1831800,Web,Mouse,2,Accesorios,2025,3,1,Grande
+2025-035,29,2025-03-15,3,3,439505,1318515,Web,Teclado,2,Accesorios,2025,3,1,Grande
+2025-036,427,2025-07-30,1,4,647999,2591996,Tienda Física,Notebook,1,Tecnología,2025,7,3,Grande
+2025-037,408,2025-07-02,3,2,645873,1291746,Web,Teclado,2,Accesorios,2025,7,3,Grande
+2025-038,191,2025-05-29,3,1,120130,120130,App,Teclado,2,Accesorios,2025,5,2,Pequeña
+2025-039,388,2025-06-15,6,1,62691,62691,Web,Tablet,1,Tecnología,2025,6,2,Pequeña
+2025-040,14,2025-07-08,3,4,759450,3037800,App,Teclado,2,Accesorios,2025,7,3,Grande
+2025-041,155,2025-03-16,6,2,188646,377292,Web,Tablet,1,Tecnología,2025,3,1,Mediana
+2025-042,428,2025-12-11,5,3,501006,1503018,Web,Audífonos,2,Accesorios,2025,12,4,Grande
+2025-043,182,2025-07-12,2,2,787475,1574950,Tienda Física,Mouse,2,Accesorios,2025,7,3,Grande
+2025-044,104,2025-08-30,4,2,413157,826314,Tienda Física,Monitor,1,Tecnología,2025,8,3,Mediana
+2025-045,209,2025-04-22,5,2,227741,455482,Web,Audífonos,2,Accesorios,2025,4,2,Mediana
+2025-046,375,2025-10-23,3,3,96795,290385,App,Teclado,2,Accesorios,2025,10,4,Mediana
+2025-047,20,2025-06-05,6,2,209298,418596,App,Tablet,1,Tecnología,2025,6,2,Mediana
+2025-048,94,2025-10-20,5,1,126545,126545,Web,Audífonos,2,Accesorios,2025,10,4,Pequeña
+2025-049,230,2025-03-16,2,4,795945,3183780,Tienda Física,Mouse,2,Accesorios,2025,3,1,Grande
+2025-050,150,2025-10-23,4,4,531244,2124976,App,Monitor,1,Tecnología,2025,10,4,Grande
+2025-051,414,2025-04-26,1,4,454755,1819020,Tienda Física,Notebook,1,Tecnología,2025,4,2,Grande
+2025-052,144,2025-01-07,6,2,425466,850932,Web,Tablet,1,Tecnología,2025,1,1,Mediana
+2025-053,443,2025-03-29,3,1,115686,115686,Tienda Física,Teclado,2,Accesorios,2025,3,1,Pequeña
+2025-054,73,2025-08-22,3,3,708148,2124444,Web,Teclado,2,Accesorios,2025,8,3,Grande
+2025-055,239,2025-04-05,1,4,437214,1748856,Web,Notebook,1,Tecnología,2025,4,2,Grande
+2025-056,222,2025-08-19,6,4,417931,1671724,Web,Tablet,1,Tecnología,2025,8,3,Grande
+2025-057,119,2025-03-05,4,1,521760,521760,App,Monitor,1,Tecnología,2025,3,1,Mediana
+2025-058,350,2025-01-11,5,3,522493,1567479,App,Audífonos,2,Accesorios,2025,1,1,Grande
+2025-059,434,2025-09-08,4,2,515633,1031266,App,Monitor,1,Tecnología,2025,9,3,Grande
+2025-060,358,2025-09-28,2,4,55619,222476,Web,Mouse,2,Accesorios,2025,9,3,Mediana
+2025-061,84,2025-10-23,3,1,75149,75149,Tienda Física,Teclado,2,Accesorios,2025,10,4,Pequeña
+2025-062,360,2025-04-03,3,2,297623,595246,App,Teclado,2,Accesorios,2025,4,2,Mediana
+2025-063,56,2025-01-28,4,2,505654,1011308,Web,Monitor,1,Tecnología,2025,1,1,Grande
+2025-064,420,2025-02-05,5,1,288495,288495,Web,Audífonos,2,Accesorios,2025,2,1,Mediana
+2025-065,282,2025-06-15,6,4,507599,2030396,Tienda Física,Tablet,1,Tecnología,2025,6,2,Grande
+2025-066,344,2025-01-11,6,2,754822,1509644,App,Tablet,1,Tecnología,2025,1,1,Grande
+2025-067,96,2025-09-23,6,1,579829,579829,App,Tablet,1,Tecnología,2025,9,3,Mediana
+2025-068,408,2025-12-09,3,4,745035,2980140,Web,Teclado,2,Accesorios,2025,12,4,Grande
+2025-069,65,2025-04-16,2,1,433350,433350,Web,Mouse,2,Accesorios,2025,4,2,Mediana
+2025-070,184,2025-03-30,2,1,234021,234021,App,Mouse,2,Accesorios,2025,3,1,Mediana
+2025-071,371,2025-04-16,4,4,607904,2431616,Tienda Física,Monitor,1,Tecnología,2025,4,2,Grande
+2025-072,463,2025-02-09,5,1,111407,111407,App,Audífonos,2,Accesorios,2025,2,1,Pequeña
+2025-073,219,2025-07-27,5,2,715356,1430712,Web,Audífonos,2,Accesorios,2025,7,3,Grande
+2025-074,447,2025-07-30,4,4,127797,511188,Tienda Física,Monitor,1,Tecnología,2025,7,3,Mediana
+2025-075,249,2025-10-22,3,4,295713,1182852,Tienda Física,Teclado,2,Accesorios,2025,10,4,Grande
+2025-076,345,2025-12-03,6,4,568988,2275952,Web,Tablet,1,Tecnología,2025,12,4,Grande
+2025-077,229,2025-07-07,6,3,679260,2037780,App,Tablet,1,Tecnología,2025,7,3,Grande
+2025-078,270,2025-02-08,6,4,98059,392236,Web,Tablet,1,Tecnología,2025,2,1,Mediana
+2025-079,333,2025-04-30,3,2,275406,550812,Web,Teclado,2,Accesorios,2025,4,2,Mediana
+2025-080,222,2025-08-25,3,4,191890,767560,App,Teclado,2,Accesorios,2025,8,3,Mediana
+2025-081,226,2025-07-19,6,4,533260,2133040,Tienda Física,Tablet,1,Tecnología,2025,7,3,Grande
+2025-082,72,2025-02-01,6,1,166877,166877,Tienda Física,Tablet,1,Tecnología,2025,2,1,Pequeña
+2025-083,394,2025-03-17,3,4,453066,1812264,Web,Teclado,2,Accesorios,2025,3,1,Grande
+2025-084,315,2025-07-09,5,3,22100,66300,Web,Audífonos,2,Accesorios,2025,7,3,Pequeña
+2025-085,127,2025-09-07,1,3,244196,732588,Tienda Física,Notebook,1,Tecnología,2025,9,3,Mediana
+2025-086,383,2025-02-14,6,4,719132,2876528,Tienda Física,Tablet,1,Tecnología,2025,2,1,Grande
+2025-087,426,2025-07-24,2,1,575523,575523,Web,Mouse,2,Accesorios,2025,7,3,Mediana
+2025-088,438,2025-09-30,4,1,603792,603792,App,Monitor,1,Tecnología,2025,9,3,Mediana
+2025-089,328,2025-10-06,2,3,96124,288372,App,Mouse,2,Accesorios,2025,10,4,Mediana
+2025-090,328,2025-07-06,3,2,732030,1464060,Web,Teclado,2,Accesorios,2025,7,3,Grande
+2025-091,423,2025-07-08,5,1,247723,247723,Tienda Física,Audífonos,2,Accesorios,2025,7,3,Mediana
+2025-092,2,2025-01-13,6,2,207478,414956,App,Tablet,1,Tecnología,2025,1,1,Mediana
+2025-093,221,2025-09-26,6,2,447585,895170,Tienda Física,Tablet,1,Tecnología,2025,9,3,Mediana
+2025-094,469,2025-02-24,6,1,191871,191871,Web,Tablet,1,Tecnología,2025,2,1,Pequeña
+2025-095,424,2025-07-20,3,4,485278,1941112,App,Teclado,2,Accesorios,2025,7,3,Grande
+2025-096,364,2025-06-29,5,3,446607,1339821,App,Audífonos,2,Accesorios,2025,6,2,Grande
+2025-097,417,2025-07-01,1,4,700824,2803296,Tienda Física,Notebook,1,Tecnología,2025,7,3,Grande
+2025-098,1,2025-04-08,4,3,319066,957198,Web,Monitor,1,Tecnología,2025,4,2,Mediana
+2025-099,288,2025-03-13,4,1,99037,99037,Tienda Física,Monitor,1,Tecnología,2025,3,1,Pequeña
+2025-100,190,2025-08-20,4,1,761722,761722,App,Monitor,1,Tecnología,2025,8,3,Mediana
+2025-101,190,2025-06-20,3,3,463222,1389666,Tienda Física,Teclado,2,Accesorios,2025,6,2,Grande
+2025-102,273,2025-08-09,1,4,2243768,8975072,Web,Notebook,1,Tecnología,2025,8,3,Grande
+2025-103,341,2025-04-12,6,2,23233,46466,Web,Tablet,1,Tecnología,2025,4,2,Pequeña
+2025-104,493,2025-08-21,3,2,638423,1276846,Web,Teclado,2,Accesorios,2025,8,3,Grande
+2025-105,227,2025-11-01,3,3,164455,493365,Web,Teclado,2,Accesorios,2025,11,4,Mediana
+2025-106,115,2025-12-25,2,3,437858,1313574,Tienda Física,Mouse,2,Accesorios,2025,12,4,Grande
+2025-107,273,2025-01-28,6,3,745415,2236245,App,Tablet,1,Tecnología,2025,1,1,Grande
+2025-108,38,2025-08-02,5,3,238931,716793,App,Audífonos,2,Accesorios,2025,8,3,Mediana
+2025-109,177,2025-11-04,3,4,236572,946288,App,Teclado,2,Accesorios,2025,11,4,Mediana
+2025-110,288,2025-07-07,1,1,572422,572422,App,Notebook,1,Tecnología,2025,7,3,Mediana
+2025-111,83,2025-08-26,2,4,560242,2240968,Tienda Física,Mouse,2,Accesorios,2025,8,3,Grande
+2025-112,284,2025-10-31,1,2,546785,1093570,Web,Notebook,1,Tecnología,2025,10,4,Grande
+2025-113,447,2025-07-27,4,4,145639,582556,App,Monitor,1,Tecnología,2025,7,3,Mediana
+2025-114,388,2025-05-17,6,4,395946,1583784,Tienda Física,Tablet,1,Tecnología,2025,5,2,Grande
+2025-115,400,2025-05-22,4,3,360679,1082037,Web,Monitor,1,Tecnología,2025,5,2,Grande
+2025-116,25,2025-04-28,2,3,338953,1016859,App,Mouse,2,Accesorios,2025,4,2,Grande
+2025-117,73,2025-01-10,2,4,402551,1610204,Tienda Física,Mouse,2,Accesorios,2025,1,1,Grande
+2025-118,323,2025-04-23,5,3,554026,1662078,Tienda Física,Audífonos,2,Accesorios,2025,4,2,Grande
+2025-119,163,2025-06-24,4,1,287785,287785,App,Monitor,1,Tecnología,2025,6,2,Mediana
+2025-120,471,2025-05-12,2,4,612251,2449004,Tienda Física,Mouse,2,Accesorios,2025,5,2,Grande
+2025-121,176,2025-03-07,1,2,783720,1567440,App,Notebook,1,Tecnología,2025,3,1,Grande
+2025-122,387,2025-12-06,2,1,121576,121576,Web,Mouse,2,Accesorios,2025,12,4,Pequeña
+2025-123,116,2025-10-21,6,1,278733,278733,Web,Tablet,1,Tecnología,2025,10,4,Mediana
+2025-124,143,2025-10-29,2,2,553597,1107194,Web,Mouse,2,Accesorios,2025,10,4,Grande
+2025-125,277,2025-03-11,1,2,288404,576808,Web,Notebook,1,Tecnología,2025,3,1,Mediana
+2025-126,363,2025-04-01,4,3,182502,547506,App,Monitor,1,Tecnología,2025,4,2,Mediana
+2025-127,149,2025-07-11,4,3,216486,649458,Tienda Física,Monitor,1,Tecnología,2025,7,3,Mediana
+2025-128,40,2025-06-29,2,2,587880,1175760,Web,Mouse,2,Accesorios,2025,6,2,Grande
+2025-129,200,2025-08-25,3,1,458377,458377,Web,Teclado,2,Accesorios,2025,8,3,Mediana
+2025-130,311,2025-08-25,5,4,555210,2220840,App,Audífonos,2,Accesorios,2025,8,3,Grande
+2025-131,349,2025-01-02,5,1,4459730,4459730,Web,Audífonos,2,Accesorios,2025,1,1,Grande
+2025-132,360,2025-09-24,4,3,122669,368007,Tienda Física,Monitor,1,Tecnología,2025,9,3,Mediana
+2025-133,90,2025-08-08,5,3,499415,1498245,App,Audífonos,2,Accesorios,2025,8,3,Grande
+2025-134,94,2025-07-03,1,3,303561,910683,Tienda Física,Notebook,1,Tecnología,2025,7,3,Mediana
+2025-135,162,2025-10-05,4,1,511323,511323,Web,Monitor,1,Tecnología,2025,10,4,Mediana
+2025-136,111,2025-07-01,1,1,189689,189689,App,Notebook,1,Tecnología,2025,7,3,Pequeña
+2025-137,405,2025-04-09,1,2,248245,496490,Web,Notebook,1,Tecnología,2025,4,2,Mediana
+2025-138,208,2025-01-17,6,3,130592,391776,App,Tablet,1,Tecnología,2025,1,1,Mediana
+2025-139,90,2025-12-03,5,1,518069,518069,App,Audífonos,2,Accesorios,2025,12,4,Mediana
+2025-140,429,2025-01-14,6,3,213117,639351,Tienda Física,Tablet,1,Tecnología,2025,1,1,Mediana
+2025-141,72,2025-10-10,5,3,599621,1798863,Web,Audífonos,2,Accesorios,2025,10,4,Grande
+2025-142,241,2025-03-01,5,4,790962,3163848,App,Audífonos,2,Accesorios,2025,3,1,Grande
+2025-143,197,2025-08-05,6,2,132672,265344,App,Tablet,1,Tecnología,2025,8,3,Mediana
+2025-144,26,2025-07-17,5,2,152867,305734,Tienda Física,Audífonos,2,Accesorios,2025,7,3,Mediana
+2025-145,448,2025-09-30,2,2,347283,694566,Web,Mouse,2,Accesorios,2025,9,3,Mediana
+2025-146,14,2025-02-13,6,1,463510,463510,Tienda Física,Tablet,1,Tecnología,2025,2,1,Mediana
+2025-147,399,2025-08-27,3,3,34042,102126,Tienda Física,Teclado,2,Accesorios,2025,8,3,Pequeña
+2025-148,337,2025-04-10,3,3,159395,478185,Tienda Física,Teclado,2,Accesorios,2025,4,2,Mediana
+2025-149,416,2025-12-26,2,4,675643,2702572,Web,Mouse,2,Accesorios,2025,12,4,Grande
+2025-150,381,2025-03-06,1,3,453441,1360323,Tienda Física,Notebook,1,Tecnología,2025,3,1,Grande
+2025-151,288,2025-11-10,4,1,726741,726741,App,Monitor,1,Tecnología,2025,11,4,Mediana
+2025-152,421,2025-07-06,6,4,764471,3057884,App,Tablet,1,Tecnología,2025,7,3,Grande
+2025-153,388,2025-07-13,5,2,782332,1564664,Tienda Física,Audífonos,2,Accesorios,2025,7,3,Grande
+2025-154,259,2025-06-20,6,4,734750,2939000,Tienda Física,Tablet,1,Tecnología,2025,6,2,Grande
+2025-155,201,2025-12-30,5,2,721238,1442476,Tienda Física,Audífonos,2,Accesorios,2025,12,4,Grande
+2025-156,103,2025-10-13,2,1,791624,791624,App,Mouse,2,Accesorios,2025,10,4,Mediana
+2025-157,230,2025-03-01,2,2,157878,315756,App,Mouse,2,Accesorios,2025,3,1,Mediana
+2025-158,171,2025-12-16,6,1,422310,422310,App,Tablet,1,Tecnología,2025,12,4,Mediana
+2025-159,440,2025-04-18,2,1,651517,651517,Web,Mouse,2,Accesorios,2025,4,2,Mediana
+2025-160,407,2025-05-26,6,4,769401,3077604,Tienda Física,Tablet,1,Tecnología,2025,5,2,Grande
+2025-161,424,2025-07-21,2,4,519668,2078672,App,Mouse,2,Accesorios,2025,7,3,Grande
+2025-162,112,2025-04-16,3,3,121426,364278,Tienda Física,Teclado,2,Accesorios,2025,4,2,Mediana
+2025-163,299,2025-12-03,1,4,744595,2978380,Web,Notebook,1,Tecnología,2025,12,4,Grande
+2025-164,467,2025-10-18,5,4,500999,2003996,App,Audífonos,2,Accesorios,2025,10,4,Grande
+2025-165,193,2025-09-04,4,2,417407,834814,Tienda Física,Monitor,1,Tecnología,2025,9,3,Mediana
+2025-166,461,2025-11-12,3,2,589074,1178148,Tienda Física,Teclado,2,Accesorios,2025,11,4,Grande
+2025-167,270,2025-09-08,1,2,122752,245504,Web,Notebook,1,Tecnología,2025,9,3,Mediana
+2025-168,329,2025-06-24,2,3,681868,2045604,Web,Mouse,2,Accesorios,2025,6,2,Grande
+2025-169,47,2025-08-25,4,4,729128,2916512,Tienda Física,Monitor,1,Tecnología,2025,8,3,Grande
+2025-170,25,2025-11-10,2,2,488697,977394,App,Mouse,2,Accesorios,2025,11,4,Mediana
+2025-171,375,2025-12-21,1,1,429149,429149,App,Notebook,1,Tecnología,2025,12,4,Mediana
+2025-172,266,2025-03-26,3,3,122138,366414,Web,Teclado,2,Accesorios,2025,3,1,Mediana
+2025-173,214,2025-03-05,5,3,488928,1466784,App,Audífonos,2,Accesorios,2025,3,1,Grande
+2025-174,332,2025-02-23,1,2,690913,1381826,Tienda Física,Notebook,1,Tecnología,2025,2,1,Grande
+2025-175,331,2025-07-06,1,3,322849,968547,App,Notebook,1,Tecnología,2025,7,3,Mediana
+2025-176,144,2025-08-27,6,1,2933432,2933432,App,Tablet,1,Tecnología,2025,8,3,Grande
+2025-177,76,2025-09-03,4,1,237203,237203,App,Monitor,1,Tecnología,2025,9,3,Mediana
+2025-178,474,2025-03-13,3,3,670046,2010138,Tienda Física,Teclado,2,Accesorios,2025,3,1,Grande
+2025-179,191,2025-01-12,6,3,164599,493797,Web,Tablet,1,Tecnología,2025,1,1,Mediana
+2025-180,254,2025-09-10,3,1,449358,449358,Web,Teclado,2,Accesorios,2025,9,3,Mediana
+2025-181,376,2025-07-27,4,1,321385,321385,App,Monitor,1,Tecnología,2025,7,3,Mediana
+2025-182,349,2025-05-31,4,1,133805,133805,App,Monitor,1,Tecnología,2025,5,2,Pequeña
+2025-183,458,2025-10-20,5,4,455563,1822252,Web,Audífonos,2,Accesorios,2025,10,4,Grande
+2025-184,195,2025-10-02,4,3,677565,2032695,Web,Monitor,1,Tecnología,2025,10,4,Grande
+2025-185,106,2025-01-27,5,4,32692,130768,Tienda Física,Audífonos,2,Accesorios,2025,1,1,Pequeña
+2025-186,285,2025-11-15,4,1,473685,473685,App,Monitor,1,Tecnología,2025,11,4,Mediana
+2025-187,406,2025-01-30,2,1,30323,30323,Web,Mouse,2,Accesorios,2025,1,1,Pequeña
+2025-188,275,2025-11-14,2,1,791738,791738,App,Mouse,2,Accesorios,2025,11,4,Mediana
+2025-189,221,2025-11-25,4,2,666051,1332102,Tienda Física,Monitor,1,Tecnología,2025,11,4,Grande
+2025-190,499,2025-04-26,3,2,237909,475818,Tienda Física,Teclado,2,Accesorios,2025,4,2,Mediana
+2025-191,335,2025-02-19,1,4,748591,2994364,App,Notebook,1,Tecnología,2025,2,1,Grande
+2025-192,5,2025-03-16,4,3,688525,2065575,Web,Monitor,1,Tecnología,2025,3,1,Grande
+2025-193,278,2025-10-27,2,4,594668,2378672,App,Mouse,2,Accesorios,2025,10,4,Grande
+2025-194,77,2025-03-09,2,1,610198,610198,Tienda Física,Mouse,2,Accesorios,2025,3,1,Mediana
+2025-195,490,2025-12-07,6,3,741576,2224728,Web,Tablet,1,Tecnología,2025,12,4,Grande
+2025-196,415,2025-10-15,3,3,662468,1987404,App,Teclado,2,Accesorios,2025,10,4,Grande
+2025-197,187,2025-11-12,4,2,524241,1048482,Web,Monitor,1,Tecnología,2025,11,4,Grande
+2025-198,352,2025-04-17,6,3,468996,1406988,Web,Tablet,1,Tecnología,2025,4,2,Grande
+2025-199,395,2025-11-02,5,4,717910,2871640,Tienda Física,Audífonos,2,Accesorios,2025,11,4,Grande
+2025-200,209,2025-11-17,1,3,93291,279873,Tienda Física,Notebook,1,Tecnología,2025,11,4,Mediana
+2025-201,476,2025-04-16,5,2,425105,850210,Tienda Física,Audífonos,2,Accesorios,2025,4,2,Mediana
+2025-202,410,2025-06-20,3,4,51777,207108,Tienda Física,Teclado,2,Accesorios,2025,6,2,Mediana
+2025-203,493,2025-10-10,3,4,714706,2858824,Web,Teclado,2,Accesorios,2025,10,4,Grande
+2025-204,182,2025-11-12,2,1,694687,694687,App,Mouse,2,Accesorios,2025,11,4,Mediana
+2025-205,30,2025-10-08,4,2,374315,748630,Web,Monitor,1,Tecnología,2025,10,4,Mediana
+2025-206,266,2025-08-13,4,2,776759,1553518,Web,Monitor,1,Tecnología,2025,8,3,Grande
+2025-207,361,2025-09-03,6,2,454718,909436,Web,Tablet,1,Tecnología,2025,9,3,Mediana
+2025-208,22,2025-10-10,1,4,331898,1327592,Web,Notebook,1,Tecnología,2025,10,4,Grande
+2025-209,336,2025-03-30,2,4,64745,258980,App,Mouse,2,Accesorios,2025,3,1,Mediana
+2025-210,12,2025-07-20,1,4,61033,244132,App,Notebook,1,Tecnología,2025,7,3,Mediana
+2025-211,352,2025-02-08,1,2,96803,193606,App,Notebook,1,Tecnología,2025,2,1,Pequeña
+2025-212,321,2025-06-08,3,4,583091,2332364,Web,Teclado,2,Accesorios,2025,6,2,Grande
+2025-213,78,2025-01-12,2,1,313630,313630,Web,Mouse,2,Accesorios,2025,1,1,Mediana
+2025-214,156,2025-10-07,4,1,121462,121462,Web,Monitor,1,Tecnología,2025,10,4,Pequeña
+2025-215,394,2025-08-04,6,2,361889,723778,App,Tablet,1,Tecnología,2025,8,3,Mediana
+2025-216,162,2025-02-05,2,4,236453,945812,Web,Mouse,2,Accesorios,2025,2,1,Mediana
+2025-217,420,2025-12-02,6,2,446862,893724,Web,Tablet,1,Tecnología,2025,12,4,Mediana
+2025-218,356,2025-06-13,1,4,403120,1612480,App,Notebook,1,Tecnología,2025,6,2,Grande
+2025-219,294,2025-05-03,3,3,592111,1776333,Tienda Física,Teclado,2,Accesorios,2025,5,2,Grande
+2025-220,453,2025-08-31,4,1,725879,725879,App,Monitor,1,Tecnología,2025,8,3,Mediana
+2025-221,231,2025-12-03,6,2,250011,500022,Web,Tablet,1,Tecnología,2025,12,4,Mediana
+2025-222,87,2025-10-15,6,1,226621,226621,Tienda Física,Tablet,1,Tecnología,2025,10,4,Mediana
+2025-223,44,2025-09-18,1,1,567665,567665,Web,Notebook,1,Tecnología,2025,9,3,Mediana
+2025-224,283,2025-09-13,4,3,780663,2341989,Tienda Física,Monitor,1,Tecnología,2025,9,3,Grande
+2025-225,206,2025-03-24,3,1,657952,657952,App,Teclado,2,Accesorios,2025,3,1,Mediana
+2025-226,438,2025-09-08,6,3,399919,1199757,Tienda Física,Tablet,1,Tecnología,2025,9,3,Grande
+2025-227,133,2025-04-05,1,1,419925,419925,App,Notebook,1,Tecnología,2025,4,2,Mediana
+2025-228,450,2025-08-07,5,1,243979,243979,Web,Audífonos,2,Accesorios,2025,8,3,Mediana
+2025-229,72,2025-12-09,1,4,336571,1346284,Tienda Física,Notebook,1,Tecnología,2025,12,4,Grande
+2025-230,423,2025-02-23,6,4,583340,2333360,App,Tablet,1,Tecnología,2025,2,1,Grande
+2025-231,16,2025-04-21,3,4,167753,671012,Web,Teclado,2,Accesorios,2025,4,2,Mediana
+2025-232,337,2025-11-22,2,1,789091,789091,Web,Mouse,2,Accesorios,2025,11,4,Mediana
+2025-233,112,2025-07-07,3,1,319378,319378,Tienda Física,Teclado,2,Accesorios,2025,7,3,Mediana
+2025-234,197,2025-07-31,3,4,279515,1118060,Web,Teclado,2,Accesorios,2025,7,3,Grande
+2025-235,276,2025-08-31,1,3,253459,760377,App,Notebook,1,Tecnología,2025,8,3,Mediana
+2025-236,275,2025-06-20,6,3,147900,443700,Web,Tablet,1,Tecnología,2025,6,2,Mediana
+2025-237,397,2025-02-21,4,1,514917,514917,Tienda Física,Monitor,1,Tecnología,2025,2,1,Mediana
+2025-238,437,2025-07-30,5,2,523066,1046132,App,Audífonos,2,Accesorios,2025,7,3,Grande
+2025-239,346,2025-03-18,3,2,501818,1003636,Web,Teclado,2,Accesorios,2025,3,1,Grande
+2025-240,20,2025-09-25,3,4,73014,292056,Tienda Física,Teclado,2,Accesorios,2025,9,3,Mediana
+2025-241,479,2025-02-11,6,3,348585,1045755,Tienda Física,Tablet,1,Tecnología,2025,2,1,Grande
+2025-242,11,2025-10-02,6,2,366778,733556,App,Tablet,1,Tecnología,2025,10,4,Mediana
+2025-243,430,2025-08-08,4,2,515200,1030400,Web,Monitor,1,Tecnología,2025,8,3,Grande
+2025-244,355,2025-09-20,3,4,356030,1424120,Tienda Física,Teclado,2,Accesorios,2025,9,3,Grande
+2025-245,359,2025-12-24,5,4,345513,1382052,App,Audífonos,2,Accesorios,2025,12,4,Grande
+2025-246,140,2025-02-15,3,3,2062784,6188352,Web,Teclado,2,Accesorios,2025,2,1,Grande
+2025-247,88,2025-04-28,1,1,739688,739688,App,Notebook,1,Tecnología,2025,4,2,Mediana
+2025-248,441,2025-01-07,4,2,655424,1310848,App,Monitor,1,Tecnología,2025,1,1,Grande
+2025-249,122,2025-08-03,3,4,695493,2781972,Web,Teclado,2,Accesorios,2025,8,3,Grande
+2025-250,279,2025-11-09,2,4,616954,2467816,App,Mouse,2,Accesorios,2025,11,4,Grande
+2025-251,409,2025-06-13,6,1,279152,279152,App,Tablet,1,Tecnología,2025,6,2,Mediana
+2025-252,334,2025-09-30,3,2,161899,323798,Tienda Física,Teclado,2,Accesorios,2025,9,3,Mediana
+2025-253,208,2025-04-03,6,2,569603,1139206,Web,Tablet,1,Tecnología,2025,4,2,Grande
+2025-254,79,2025-12-24,6,4,142018,568072,App,Tablet,1,Tecnología,2025,12,4,Mediana
+2025-255,47,2025-09-01,5,4,730117,2920468,App,Audífonos,2,Accesorios,2025,9,3,Grande
+2025-256,422,2025-10-05,1,2,111894,223788,Web,Notebook,1,Tecnología,2025,10,4,Mediana
+2025-257,210,2025-05-18,1,1,432217,432217,Web,Notebook,1,Tecnología,2025,5,2,Mediana
+2025-258,391,2025-11-04,5,2,416245,832490,Web,Audífonos,2,Accesorios,2025,11,4,Mediana
+2025-259,1,2025-01-04,4,1,371659,371659,Web,Monitor,1,Tecnología,2025,1,1,Mediana
+2025-260,132,2025-01-01,3,2,322579,645158,Tienda Física,Teclado,2,Accesorios,2025,1,1,Mediana
+2025-261,478,2025-01-08,2,1,342066,342066,Web,Mouse,2,Accesorios,2025,1,1,Mediana
+2025-262,408,2025-10-26,3,4,777610,3110440,Tienda Física,Teclado,2,Accesorios,2025,10,4,Grande
+2025-263,32,2025-06-05,6,1,320929,320929,Web,Tablet,1,Tecnología,2025,6,2,Mediana
+2025-264,16,2025-07-06,3,3,288266,864798,Tienda Física,Teclado,2,Accesorios,2025,7,3,Mediana
+2025-265,260,2025-02-08,5,1,505919,505919,Web,Audífonos,2,Accesorios,2025,2,1,Mediana
+2025-266,132,2025-07-22,6,2,306213,612426,App,Tablet,1,Tecnología,2025,7,3,Mediana
+2025-267,108,2025-01-18,4,2,761395,1522790,App,Monitor,1,Tecnología,2025,1,1,Grande
+2025-268,181,2025-12-12,5,1,446606,446606,Tienda Física,Audífonos,2,Accesorios,2025,12,4,Mediana
+2025-269,90,2025-02-13,5,2,620885,1241770,App,Audífonos,2,Accesorios,2025,2,1,Grande
+2025-270,19,2025-09-11,5,2,348526,697052,Web,Audífonos,2,Accesorios,2025,9,3,Mediana
+2025-271,30,2025-08-17,1,2,339760,679520,App,Notebook,1,Tecnología,2025,8,3,Mediana
+2025-272,350,2025-09-03,3,3,3776238,11328714,Web,Teclado,2,Accesorios,2025,9,3,Grande
+2025-273,332,2025-04-27,5,1,437709,437709,Tienda Física,Audífonos,2,Accesorios,2025,4,2,Mediana
+2025-274,258,2025-06-21,4,3,407172,1221516,App,Monitor,1,Tecnología,2025,6,2,Grande
+2025-275,274,2025-07-29,3,3,265658,796974,App,Teclado,2,Accesorios,2025,7,3,Mediana
+2025-276,421,2025-04-05,2,1,729211,729211,App,Mouse,2,Accesorios,2025,4,2,Mediana
+2025-277,11,2025-07-15,4,3,481761,1445283,Web,Monitor,1,Tecnología,2025,7,3,Grande
+2025-278,98,2025-06-21,5,4,683217,2732868,Tienda Física,Audífonos,2,Accesorios,2025,6,2,Grande
+2025-279,134,2025-07-04,2,1,327942,327942,Web,Mouse,2,Accesorios,2025,7,3,Mediana
+2025-280,55,2025-06-16,3,4,360046,1440184,Tienda Física,Teclado,2,Accesorios,2025,6,2,Grande
+2025-281,119,2025-05-30,1,1,117449,117449,Web,Notebook,1,Tecnología,2025,5,2,Pequeña
+2025-282,215,2025-11-26,5,2,701252,1402504,Tienda Física,Audífonos,2,Accesorios,2025,11,4,Grande
+2025-283,295,2025-05-03,2,3,378582,1135746,Tienda Física,Mouse,2,Accesorios,2025,5,2,Grande
+2025-284,387,2025-01-29,3,2,634987,1269974,Tienda Física,Teclado,2,Accesorios,2025,1,1,Grande
+2025-285,35,2025-10-21,6,4,389502,1558008,Web,Tablet,1,Tecnología,2025,10,4,Grande
+2025-286,349,2025-05-02,3,3,491799,1475397,Tienda Física,Teclado,2,Accesorios,2025,5,2,Grande
+2025-287,388,2025-02-14,3,1,760018,760018,Tienda Física,Teclado,2,Accesorios,2025,2,1,Mediana
+2025-288,16,2025-01-09,5,3,455935,1367805,App,Audífonos,2,Accesorios,2025,1,1,Grande
+2025-289,333,2025-01-15,5,1,278614,278614,Tienda Física,Audífonos,2,Accesorios,2025,1,1,Mediana
+2025-290,102,2025-04-23,2,1,765477,765477,Web,Mouse,2,Accesorios,2025,4,2,Mediana
+2025-291,428,2025-07-27,1,2,740602,1481204,App,Notebook,1,Tecnología,2025,7,3,Grande
+2025-292,200,2025-01-12,1,1,3508834,3508834,Web,Notebook,1,Tecnología,2025,1,1,Grande
+2025-293,465,2025-11-30,4,2,724221,1448442,Web,Monitor,1,Tecnología,2025,11,4,Grande
+2025-294,420,2025-05-14,1,3,24506,73518,Tienda Física,Notebook,1,Tecnología,2025,5,2,Pequeña
+2025-295,453,2025-05-21,3,1,324557,324557,Tienda Física,Teclado,2,Accesorios,2025,5,2,Mediana
+2025-296,334,2025-11-15,4,2,123978,247956,Web,Monitor,1,Tecnología,2025,11,4,Mediana
+2025-297,92,2025-06-09,3,4,629674,2518696,Tienda Física,Teclado,2,Accesorios,2025,6,2,Grande
+2025-298,137,2025-03-09,4,4,725232,2900928,App,Monitor,1,Tecnología,2025,3,1,Grande
+2025-299,249,2025-01-06,2,4,772178,3088712,Tienda Física,Mouse,2,Accesorios,2025,1,1,Grande
+2025-300,94,2025-01-25,5,1,312788,312788,App,Audífonos,2,Accesorios,2025,1,1,Mediana
+2025-301,338,2025-10-28,2,2,227033,454066,App,Mouse,2,Accesorios,2025,10,4,Mediana
+2025-302,175,2025-04-24,4,3,180956,542868,Tienda Física,Monitor,1,Tecnología,2025,4,2,Mediana
+2025-303,249,2025-11-05,3,3,366386,1099158,App,Teclado,2,Accesorios,2025,11,4,Grande
+2025-304,238,2025-08-04,6,2,90428,180856,Web,Tablet,1,Tecnología,2025,8,3,Pequeña
+2025-305,193,2025-10-02,3,3,328903,986709,App,Teclado,2,Accesorios,2025,10,4,Mediana
+2025-306,76,2025-07-06,4,4,511691,2046764,Web,Monitor,1,Tecnología,2025,7,3,Grande
+2025-307,403,2025-09-10,4,3,448963,1346889,App,Monitor,1,Tecnología,2025,9,3,Grande
+2025-308,177,2025-04-08,5,2,15730,31460,Tienda Física,Audífonos,2,Accesorios,2025,4,2,Pequeña
+2025-309,483,2025-11-06,6,1,355430,355430,App,Tablet,1,Tecnología,2025,11,4,Mediana
+2025-310,16,2025-06-22,4,4,3995127,15980508,App,Monitor,1,Tecnología,2025,6,2,Grande
+2025-311,328,2025-08-02,4,3,243462,730386,Web,Monitor,1,Tecnología,2025,8,3,Mediana
+2025-312,282,2025-03-06,5,1,652536,652536,App,Audífonos,2,Accesorios,2025,3,1,Mediana
+2025-313,151,2025-12-29,3,4,726118,2904472,Tienda Física,Teclado,2,Accesorios,2025,12,4,Grande
+2025-314,352,2025-05-26,6,1,141562,141562,Tienda Física,Tablet,1,Tecnología,2025,5,2,Pequeña
+2025-315,463,2025-04-13,1,1,268360,268360,Tienda Física,Notebook,1,Tecnología,2025,4,2,Mediana
+2025-316,347,2025-03-29,5,4,638177,2552708,Tienda Física,Audífonos,2,Accesorios,2025,3,1,Grande
+2025-317,303,2025-02-19,3,2,3702858,7405716,Tienda Física,Teclado,2,Accesorios,2025,2,1,Grande
+2025-318,134,2025-04-19,3,1,473092,473092,Web,Teclado,2,Accesorios,2025,4,2,Mediana
+2025-319,287,2025-10-28,5,2,12159,24318,Web,Audífonos,2,Accesorios,2025,10,4,Pequeña
+2025-320,177,2025-04-27,4,1,415237,415237,Web,Monitor,1,Tecnología,2025,4,2,Mediana
+2025-321,28,2025-02-27,1,2,433448,866896,App,Notebook,1,Tecnología,2025,2,1,Mediana
+2025-322,297,2025-02-07,6,3,639756,1919268,App,Tablet,1,Tecnología,2025,2,1,Grande
+2025-323,429,2025-06-17,3,2,799313,1598626,Tienda Física,Teclado,2,Accesorios,2025,6,2,Grande
+2025-324,373,2025-01-19,3,1,497063,497063,App,Teclado,2,Accesorios,2025,1,1,Mediana
+2025-325,448,2025-12-10,1,4,606860,2427440,Web,Notebook,1,Tecnología,2025,12,4,Grande
+2025-326,35,2025-06-02,6,1,32499,32499,Web,Tablet,1,Tecnología,2025,6,2,Pequeña
+2025-327,433,2025-08-14,4,2,153704,307408,Web,Monitor,1,Tecnología,2025,8,3,Mediana
+2025-328,403,2025-07-01,3,1,456991,456991,Tienda Física,Teclado,2,Accesorios,2025,7,3,Mediana
+2025-329,329,2025-12-02,1,2,530082,1060164,Tienda Física,Notebook,1,Tecnología,2025,12,4,Grande
+2025-330,402,2025-05-14,2,1,247612,247612,Web,Mouse,2,Accesorios,2025,5,2,Mediana
+2025-331,122,2025-02-08,6,4,147263,589052,Tienda Física,Tablet,1,Tecnología,2025,2,1,Mediana
+2025-332,490,2025-09-01,2,2,249608,499216,App,Mouse,2,Accesorios,2025,9,3,Mediana
+2025-333,444,2025-01-15,4,1,433240,433240,Tienda Física,Monitor,1,Tecnología,2025,1,1,Mediana
+2025-334,168,2025-06-03,1,1,318360,318360,Web,Notebook,1,Tecnología,2025,6,2,Mediana
+2025-335,272,2025-09-18,3,1,106502,106502,Tienda Física,Teclado,2,Accesorios,2025,9,3,Pequeña
+2025-336,146,2025-09-17,2,1,438556,438556,App,Mouse,2,Accesorios,2025,9,3,Mediana
+2025-337,109,2025-04-15,2,1,490350,490350,Tienda Física,Mouse,2,Accesorios,2025,4,2,Mediana
+2025-338,496,2025-04-27,6,4,2478365,9913460,Tienda Física,Tablet,1,Tecnología,2025,4,2,Grande
+2025-339,99,2025-05-21,5,1,260231,260231,Web,Audífonos,2,Accesorios,2025,5,2,Mediana
+2025-340,74,2025-11-04,4,4,34648,138592,Tienda Física,Monitor,1,Tecnología,2025,11,4,Pequeña
+2025-341,130,2025-10-06,6,4,256331,1025324,Tienda Física,Tablet,1,Tecnología,2025,10,4,Grande
+2025-342,296,2025-06-28,5,3,709597,2128791,Web,Audífonos,2,Accesorios,2025,6,2,Grande
+2025-343,223,2025-10-03,1,3,279745,839235,Tienda Física,Notebook,1,Tecnología,2025,10,4,Mediana
+2025-344,209,2025-01-13,5,2,532904,1065808,App,Audífonos,2,Accesorios,2025,1,1,Grande
+2025-345,359,2025-03-11,4,2,169094,338188,Tienda Física,Monitor,1,Tecnología,2025,3,1,Mediana
+2025-346,186,2025-12-06,3,2,173402,346804,Web,Teclado,2,Accesorios,2025,12,4,Mediana
+2025-347,467,2025-11-14,6,3,519394,1558182,Web,Tablet,1,Tecnología,2025,11,4,Grande
+2025-348,324,2025-02-04,1,4,107206,428824,Tienda Física,Notebook,1,Tecnología,2025,2,1,Mediana
+2025-349,270,2025-11-01,1,3,779565,2338695,Web,Notebook,1,Tecnología,2025,11,4,Grande
+2025-350,144,2025-03-13,6,4,589250,2357000,App,Tablet,1,Tecnología,2025,3,1,Grande
+2025-351,220,2025-09-30,4,3,11577,34731,Tienda Física,Monitor,1,Tecnología,2025,9,3,Pequeña
+2025-352,173,2025-01-10,5,3,238506,715518,App,Audífonos,2,Accesorios,2025,1,1,Mediana
+2025-353,36,2025-08-03,1,2,599719,1199438,App,Notebook,1,Tecnología,2025,8,3,Grande
+2025-354,285,2025-12-03,6,1,273606,273606,App,Tablet,1,Tecnología,2025,12,4,Mediana
+2025-355,152,2025-04-25,3,2,709774,1419548,App,Teclado,2,Accesorios,2025,4,2,Grande
+2025-356,482,2025-06-15,4,3,547674,1643022,Web,Monitor,1,Tecnología,2025,6,2,Grande
+2025-357,78,2025-01-21,3,2,125375,250750,App,Teclado,2,Accesorios,2025,1,1,Mediana
+2025-358,184,2025-06-28,6,3,777303,2331909,App,Tablet,1,Tecnología,2025,6,2,Grande
+2025-359,59,2025-07-10,1,1,799148,799148,App,Notebook,1,Tecnología,2025,7,3,Mediana
+2025-360,196,2025-09-03,3,3,727186,2181558,Web,Teclado,2,Accesorios,2025,9,3,Grande
+2025-361,104,2025-08-18,3,1,2143435,2143435,Tienda Física,Teclado,2,Accesorios,2025,8,3,Grande
+2025-362,172,2025-10-25,1,3,80474,241422,Web,Notebook,1,Tecnología,2025,10,4,Mediana
+2025-363,417,2025-06-14,2,3,736499,2209497,Web,Mouse,2,Accesorios,2025,6,2,Grande
+2025-364,187,2025-02-17,1,3,414911,1244733,Tienda Física,Notebook,1,Tecnología,2025,2,1,Grande
+2025-365,372,2025-09-10,6,3,181277,543831,Web,Tablet,1,Tecnología,2025,9,3,Mediana
+2025-366,415,2025-04-26,1,4,138023,552092,Tienda Física,Notebook,1,Tecnología,2025,4,2,Mediana
+2025-367,338,2025-12-01,2,2,653789,1307578,Tienda Física,Mouse,2,Accesorios,2025,12,4,Grande
+2025-368,70,2025-09-04,3,3,131635,394905,Tienda Física,Teclado,2,Accesorios,2025,9,3,Mediana
+2025-369,387,2025-12-20,6,3,769144,2307432,Web,Tablet,1,Tecnología,2025,12,4,Grande
+2025-370,416,2025-09-26,6,4,301568,1206272,Web,Tablet,1,Tecnología,2025,9,3,Grande
+2025-371,34,2025-11-30,6,3,72699,218097,Web,Tablet,1,Tecnología,2025,11,4,Mediana
+2025-372,349,2025-07-11,2,2,146668,293336,Web,Mouse,2,Accesorios,2025,7,3,Mediana
+2025-373,409,2025-12-13,6,2,325783,651566,App,Tablet,1,Tecnología,2025,12,4,Mediana
+2025-374,386,2025-03-30,1,1,269021,269021,App,Notebook,1,Tecnología,2025,3,1,Mediana
+2025-375,93,2025-09-02,4,1,287948,287948,App,Monitor,1,Tecnología,2025,9,3,Mediana
+2025-376,291,2025-05-08,5,4,291209,1164836,Web,Audífonos,2,Accesorios,2025,5,2,Grande
+2025-377,427,2025-05-10,1,4,248009,992036,Web,Notebook,1,Tecnología,2025,5,2,Mediana
+2025-378,423,2025-03-22,2,2,451733,903466,Tienda Física,Mouse,2,Accesorios,2025,3,1,Mediana
+2025-379,473,2025-01-16,5,1,169379,169379,Tienda Física,Audífonos,2,Accesorios,2025,1,1,Pequeña
+2025-380,105,2025-07-04,5,4,76985,307940,App,Audífonos,2,Accesorios,2025,7,3,Mediana
+2025-381,265,2025-11-16,3,4,181349,725396,App,Teclado,2,Accesorios,2025,11,4,Mediana
+2025-382,278,2025-09-08,2,3,710572,2131716,App,Mouse,2,Accesorios,2025,9,3,Grande
+2025-383,97,2025-04-07,2,3,426704,1280112,Web,Mouse,2,Accesorios,2025,4,2,Grande
+2025-384,216,2025-06-20,4,4,33834,135336,Tienda Física,Monitor,1,Tecnología,2025,6,2,Pequeña
+2025-385,32,2025-04-15,1,4,544633,2178532,Tienda Física,Notebook,1,Tecnología,2025,4,2,Grande
+2025-386,228,2025-10-17,4,2,520269,1040538,Tienda Física,Monitor,1,Tecnología,2025,10,4,Grande
+2025-387,370,2025-04-23,2,4,609095,2436380,Web,Mouse,2,Accesorios,2025,4,2,Grande
+2025-388,440,2025-04-23,2,2,783068,1566136,Web,Mouse,2,Accesorios,2025,4,2,Grande
+2025-389,171,2025-03-20,5,2,56032,112064,App,Audífonos,2,Accesorios,2025,3,1,Pequeña
+2025-390,407,2025-11-10,6,3,244337,733011,Tienda Física,Tablet,1,Tecnología,2025,11,4,Mediana
+2025-391,71,2025-10-23,2,2,755222,1510444,App,Mouse,2,Accesorios,2025,10,4,Grande
+2025-392,470,2025-11-01,2,1,129875,129875,App,Mouse,2,Accesorios,2025,11,4,Pequeña
+2025-393,363,2025-01-09,5,1,527965,527965,Tienda Física,Audífonos,2,Accesorios,2025,1,1,Mediana
+2025-394,431,2025-07-03,4,2,591042,1182084,Tienda Física,Monitor,1,Tecnología,2025,7,3,Grande
+2025-395,198,2025-11-24,4,4,203946,815784,Web,Monitor,1,Tecnología,2025,11,4,Mediana
+2025-396,182,2025-03-24,1,1,735527,735527,App,Notebook,1,Tecnología,2025,3,1,Mediana
+2025-397,319,2025-04-09,1,3,214603,643809,App,Notebook,1,Tecnología,2025,4,2,Mediana
+2025-398,286,2025-05-06,5,2,119779,239558,Web,Audífonos,2,Accesorios,2025,5,2,Mediana
+2025-399,499,2025-01-31,1,2,487793,975586,App,Notebook,1,Tecnología,2025,1,1,Mediana
+2025-400,112,2025-09-30,2,3,575369,1726107,App,Mouse,2,Accesorios,2025,9,3,Grande
+2025-401,398,2025-10-05,1,3,165063,495189,Tienda Física,Notebook,1,Tecnología,2025,10,4,Mediana
+2025-402,56,2025-10-18,3,1,36081,36081,App,Teclado,2,Accesorios,2025,10,4,Pequeña
+2025-403,381,2025-07-17,1,4,655972,2623888,Web,Notebook,1,Tecnología,2025,7,3,Grande
+2025-404,321,2025-10-04,3,1,589802,589802,Web,Teclado,2,Accesorios,2025,10,4,Mediana
+2025-405,16,2025-02-23,4,3,796492,2389476,App,Monitor,1,Tecnología,2025,2,1,Grande
+2025-406,336,2025-06-20,4,1,114127,114127,Web,Monitor,1,Tecnología,2025,6,2,Pequeña
+2025-407,377,2025-06-30,3,3,357526,1072578,Tienda Física,Teclado,2,Accesorios,2025,6,2,Grande
+2025-408,108,2025-07-25,2,2,543484,1086968,App,Mouse,2,Accesorios,2025,7,3,Grande
+2025-409,16,2025-05-05,3,2,379673,759346,Web,Teclado,2,Accesorios,2025,5,2,Mediana
+2025-410,485,2025-12-06,4,2,316024,632048,Web,Monitor,1,Tecnología,2025,12,4,Mediana
+2025-411,438,2025-07-30,5,2,199637,399274,App,Audífonos,2,Accesorios,2025,7,3,Mediana
+2025-412,390,2025-01-23,5,1,80934,80934,App,Audífonos,2,Accesorios,2025,1,1,Pequeña
+2025-413,461,2025-04-07,4,3,148009,444027,Tienda Física,Monitor,1,Tecnología,2025,4,2,Mediana
+2025-414,36,2025-08-07,5,3,559567,1678701,Web,Audífonos,2,Accesorios,2025,8,3,Grande
+2025-415,69,2025-04-07,5,2,388422,776844,Tienda Física,Audífonos,2,Accesorios,2025,4,2,Mediana
+2025-416,294,2025-02-04,6,1,275369,275369,Tienda Física,Tablet,1,Tecnología,2025,2,1,Mediana
+2025-417,67,2025-06-18,5,2,384368,768736,Web,Audífonos,2,Accesorios,2025,6,2,Mediana
+2025-418,151,2025-03-23,3,2,131118,262236,Tienda Física,Teclado,2,Accesorios,2025,3,1,Mediana
+2025-419,391,2025-09-27,1,1,423244,423244,App,Notebook,1,Tecnología,2025,9,3,Mediana
+2025-420,103,2025-08-14,2,3,439145,1317435,App,Mouse,2,Accesorios,2025,8,3,Grande
+2025-421,228,2025-07-28,5,2,606923,1213846,Web,Audífonos,2,Accesorios,2025,7,3,Grande
+2025-422,74,2025-06-19,3,3,227070,681210,Tienda Física,Teclado,2,Accesorios,2025,6,2,Mediana
+2025-423,448,2025-02-10,4,4,379359,1517436,Tienda Física,Monitor,1,Tecnología,2025,2,1,Grande
+2025-424,62,2025-07-06,3,4,202319,809276,App,Teclado,2,Accesorios,2025,7,3,Mediana
+2025-425,442,2025-01-13,2,3,607190,1821570,Tienda Física,Mouse,2,Accesorios,2025,1,1,Grande
+2025-426,89,2025-07-22,4,2,58639,117278,App,Monitor,1,Tecnología,2025,7,3,Pequeña
+2025-427,25,2025-04-27,5,4,358586,1434344,App,Audífonos,2,Accesorios,2025,4,2,Grande
+2025-428,41,2025-04-30,5,4,120957,483828,Web,Audífonos,2,Accesorios,2025,4,2,Mediana
+2025-429,145,2025-11-14,5,1,244847,244847,Web,Audífonos,2,Accesorios,2025,11,4,Mediana
+2025-430,324,2025-11-02,1,1,325508,325508,App,Notebook,1,Tecnología,2025,11,4,Mediana
+2025-431,168,2025-07-02,2,3,209316,627948,Web,Mouse,2,Accesorios,2025,7,3,Mediana
+2025-432,152,2025-10-01,2,1,649888,649888,App,Mouse,2,Accesorios,2025,10,4,Mediana
+2025-433,496,2025-03-23,4,1,43324,43324,Web,Monitor,1,Tecnología,2025,3,1,Pequeña
+2025-434,73,2025-08-11,6,1,698284,698284,App,Tablet,1,Tecnología,2025,8,3,Mediana
+2025-435,404,2025-07-24,3,4,204824,819296,Tienda Física,Teclado,2,Accesorios,2025,7,3,Mediana
+2025-436,155,2025-01-19,4,1,299014,299014,App,Monitor,1,Tecnología,2025,1,1,Mediana
+2025-437,436,2025-06-03,2,1,52137,52137,App,Mouse,2,Accesorios,2025,6,2,Pequeña
+2025-438,92,2025-06-30,1,2,179439,358878,Tienda Física,Notebook,1,Tecnología,2025,6,2,Mediana
+2025-439,450,2025-09-30,1,2,404002,808004,Web,Notebook,1,Tecnología,2025,9,3,Mediana
+2025-440,76,2025-05-11,1,4,234062,936248,Tienda Física,Notebook,1,Tecnología,2025,5,2,Mediana
+2025-441,49,2025-11-04,2,3,751063,2253189,Web,Mouse,2,Accesorios,2025,11,4,Grande
+2025-442,118,2025-07-08,6,2,705139,1410278,App,Tablet,1,Tecnología,2025,7,3,Grande
+2025-443,318,2025-09-23,1,1,25896,25896,App,Notebook,1,Tecnología,2025,9,3,Pequeña
+2025-444,464,2025-12-14,2,4,799660,3198640,App,Mouse,2,Accesorios,2025,12,4,Grande
+2025-445,400,2025-08-21,4,4,365398,1461592,App,Monitor,1,Tecnología,2025,8,3,Grande
+2025-446,299,2025-06-10,2,2,710614,1421228,App,Mouse,2,Accesorios,2025,6,2,Grande
+2025-447,121,2025-03-09,5,4,733906,2935624,Web,Audífonos,2,Accesorios,2025,3,1,Grande
+2025-448,410,2025-04-18,3,2,452765,905530,App,Teclado,2,Accesorios,2025,4,2,Mediana
+2025-449,49,2025-09-26,4,2,641339,1282678,App,Monitor,1,Tecnología,2025,9,3,Grande
+2025-450,216,2025-05-29,6,2,692265,1384530,App,Tablet,1,Tecnología,2025,5,2,Grande
+2025-451,234,2025-07-24,1,3,723806,2171418,Tienda Física,Notebook,1,Tecnología,2025,7,3,Grande
+2025-452,337,2025-05-10,6,4,539787,2159148,Tienda Física,Tablet,1,Tecnología,2025,5,2,Grande
+2025-453,46,2025-10-23,3,3,222235,666705,App,Teclado,2,Accesorios,2025,10,4,Mediana
+2025-454,100,2025-06-11,6,4,382050,1528200,Web,Tablet,1,Tecnología,2025,6,2,Grande
+2025-455,238,2025-12-22,6,1,785359,785359,App,Tablet,1,Tecnología,2025,12,4,Mediana
+2025-456,18,2025-09-03,4,4,317322,1269288,App,Monitor,1,Tecnología,2025,9,3,Grande
+2025-457,373,2025-02-17,3,4,211798,847192,Tienda Física,Teclado,2,Accesorios,2025,2,1,Mediana
+2025-458,262,2025-04-17,4,3,385348,1156044,Web,Monitor,1,Tecnología,2025,4,2,Grande
+2025-459,304,2025-05-23,3,1,770330,770330,Tienda Física,Teclado,2,Accesorios,2025,5,2,Mediana
+2025-460,378,2025-04-03,5,3,308254,924762,App,Audífonos,2,Accesorios,2025,4,2,Mediana
+2025-461,17,2025-09-24,2,1,207780,207780,App,Mouse,2,Accesorios,2025,9,3,Mediana
+2025-462,328,2025-04-29,2,4,411954,1647816,App,Mouse,2,Accesorios,2025,4,2,Grande
+2025-463,14,2025-04-29,2,4,10363,41452,App,Mouse,2,Accesorios,2025,4,2,Pequeña
+2025-464,34,2025-05-25,1,2,55689,111378,Tienda Física,Notebook,1,Tecnología,2025,5,2,Pequeña
+2025-465,446,2025-01-04,3,1,789110,789110,App,Teclado,2,Accesorios,2025,1,1,Mediana
+2025-466,397,2025-08-02,2,2,473956,947912,Web,Mouse,2,Accesorios,2025,8,3,Mediana
+2025-467,132,2025-05-10,2,1,370466,370466,Web,Mouse,2,Accesorios,2025,5,2,Mediana
+2025-468,330,2025-05-05,2,2,563351,1126702,Tienda Física,Mouse,2,Accesorios,2025,5,2,Grande
+2025-469,267,2025-11-25,1,3,180635,541905,App,Notebook,1,Tecnología,2025,11,4,Mediana
+2025-470,8,2025-11-05,2,3,610699,1832097,App,Mouse,2,Accesorios,2025,11,4,Grande
+2025-471,469,2025-12-28,4,4,33331,133324,Web,Monitor,1,Tecnología,2025,12,4,Pequeña
+2025-472,14,2025-12-08,6,2,623332,1246664,Web,Tablet,1,Tecnología,2025,12,4,Grande
+2025-473,236,2025-01-20,2,2,37302,74604,Tienda Física,Mouse,2,Accesorios,2025,1,1,Pequeña
+2025-474,135,2025-10-21,1,1,383145,383145,App,Notebook,1,Tecnología,2025,10,4,Mediana
+2025-475,189,2025-11-26,4,2,618811,1237622,Tienda Física,Monitor,1,Tecnología,2025,11,4,Grande
+2025-476,446,2025-02-20,2,2,355744,711488,App,Mouse,2,Accesorios,2025,2,1,Mediana
+2025-477,294,2025-07-19,3,2,648071,1296142,Web,Teclado,2,Accesorios,2025,7,3,Grande
+2025-478,248,2025-02-08,6,1,442184,442184,Web,Tablet,1,Tecnología,2025,2,1,Mediana
+2025-479,443,2025-11-09,2,4,668139,2672556,App,Mouse,2,Accesorios,2025,11,4,Grande
+2025-480,283,2025-06-29,2,2,420616,841232,App,Mouse,2,Accesorios,2025,6,2,Mediana
+2025-481,32,2025-10-06,2,2,309850,619700,App,Mouse,2,Accesorios,2025,10,4,Mediana
+2025-482,57,2025-12-09,4,4,781965,3127860,Web,Monitor,1,Tecnología,2025,12,4,Grande
+2025-483,287,2025-01-18,1,1,688145,688145,Tienda Física,Notebook,1,Tecnología,2025,1,1,Mediana
+2025-484,417,2025-10-18,5,2,67939,135878,Tienda Física,Audífonos,2,Accesorios,2025,10,4,Pequeña
+2025-485,370,2025-09-11,5,2,659837,1319674,Web,Audífonos,2,Accesorios,2025,9,3,Grande
+2025-486,30,2025-12-09,4,1,565913,565913,Web,Monitor,1,Tecnología,2025,12,4,Mediana
+2025-487,139,2025-06-10,2,2,357299,714598,Tienda Física,Mouse,2,Accesorios,2025,6,2,Mediana
+2025-488,13,2025-07-29,1,4,168761,675044,Web,Notebook,1,Tecnología,2025,7,3,Mediana
+2025-489,350,2025-11-06,3,2,318474,636948,Web,Teclado,2,Accesorios,2025,11,4,Mediana
+2025-490,140,2025-01-18,2,1,88840,88840,Web,Mouse,2,Accesorios,2025,1,1,Pequeña
+2025-491,112,2025-07-01,5,2,97453,194906,Web,Audífonos,2,Accesorios,2025,7,3,Pequeña
+2025-492,339,2025-07-05,5,3,733559,2200677,App,Audífonos,2,Accesorios,2025,7,3,Grande
+2025-493,255,2025-04-18,4,2,692954,1385908,App,Monitor,1,Tecnología,2025,4,2,Grande
+2025-494,77,2025-09-15,5,2,414427,828854,Tienda Física,Audífonos,2,Accesorios,2025,9,3,Mediana
+2025-495,485,2025-01-16,2,2,4964342,9928684,Tienda Física,Mouse,2,Accesorios,2025,1,1,Grande
+2025-496,424,2025-02-01,6,4,165976,663904,Tienda Física,Tablet,1,Tecnología,2025,2,1,Mediana
+2025-497,485,2025-11-26,5,1,271578,271578,Web,Audífonos,2,Accesorios,2025,11,4,Mediana
+2025-498,169,2025-05-23,5,2,531393,1062786,App,Audífonos,2,Accesorios,2025,5,2,Grande
+2025-499,248,2025-09-12,4,4,676978,2707912,Tienda Física,Monitor,1,Tecnología,2025,9,3,Grande
+2025-500,240,2025-01-11,4,1,168272,168272,App,Monitor,1,Tecnología,2025,1,1,Pequeña
+2025-501,445,2025-08-25,5,3,360036,1080108,Web,Audífonos,2,Accesorios,2025,8,3,Grande
+2025-502,497,2025-05-31,3,3,495287,1485861,Tienda Física,Teclado,2,Accesorios,2025,5,2,Grande
+2025-503,144,2025-12-28,6,1,66116,66116,Web,Tablet,1,Tecnología,2025,12,4,Pequeña
+2025-504,300,2025-09-13,4,2,30836,61672,Web,Monitor,1,Tecnología,2025,9,3,Pequeña
+2025-505,220,2025-09-01,1,4,627397,2509588,App,Notebook,1,Tecnología,2025,9,3,Grande
+2025-506,284,2025-08-14,3,1,692465,692465,Web,Teclado,2,Accesorios,2025,8,3,Mediana
+2025-507,103,2025-02-27,2,1,454783,454783,App,Mouse,2,Accesorios,2025,2,1,Mediana
+2025-508,75,2025-06-30,2,2,766547,1533094,Web,Mouse,2,Accesorios,2025,6,2,Grande
+2025-509,71,2025-09-13,1,4,357236,1428944,Tienda Física,Notebook,1,Tecnología,2025,9,3,Grande
+2025-510,74,2025-09-18,3,1,98741,98741,Web,Teclado,2,Accesorios,2025,9,3,Pequeña
+2025-511,83,2025-01-04,6,3,520473,1561419,Tienda Física,Tablet,1,Tecnología,2025,1,1,Grande
+2025-512,402,2025-04-08,4,1,522214,522214,Web,Monitor,1,Tecnología,2025,4,2,Mediana
+2025-513,451,2025-05-26,1,1,707652,707652,Tienda Física,Notebook,1,Tecnología,2025,5,2,Mediana
+2025-514,419,2025-08-14,6,3,105864,317592,Web,Tablet,1,Tecnología,2025,8,3,Mediana
+2025-515,462,2025-09-12,4,1,255160,255160,Web,Monitor,1,Tecnología,2025,9,3,Mediana
+2025-516,434,2025-04-26,4,2,475483,950966,Web,Monitor,1,Tecnología,2025,4,2,Mediana
+2025-517,354,2025-12-18,2,1,230326,230326,App,Mouse,2,Accesorios,2025,12,4,Mediana
+2025-518,273,2025-06-23,3,3,408167,1224501,App,Teclado,2,Accesorios,2025,6,2,Grande
+2025-519,246,2025-10-21,2,1,343245,343245,Tienda Física,Mouse,2,Accesorios,2025,10,4,Mediana
+2025-520,150,2025-11-20,4,1,4266598,4266598,Tienda Física,Monitor,1,Tecnología,2025,11,4,Grande
+2025-521,215,2025-08-20,2,1,309479,309479,Tienda Física,Mouse,2,Accesorios,2025,8,3,Mediana
+2025-522,382,2025-08-04,3,3,636614,1909842,Web,Teclado,2,Accesorios,2025,8,3,Grande
+2025-523,380,2025-01-27,2,4,106952,427808,App,Mouse,2,Accesorios,2025,1,1,Mediana
+2025-524,492,2025-08-02,6,4,403922,1615688,Web,Tablet,1,Tecnología,2025,8,3,Grande
+2025-525,342,2025-05-04,2,1,401670,401670,Web,Mouse,2,Accesorios,2025,5,2,Mediana
+2025-526,76,2025-12-17,5,4,311763,1247052,Tienda Física,Audífonos,2,Accesorios,2025,12,4,Grande
+2025-527,186,2025-05-31,6,1,727006,727006,Web,Tablet,1,Tecnología,2025,5,2,Mediana
+2025-528,405,2025-11-29,1,2,429876,859752,Tienda Física,Notebook,1,Tecnología,2025,11,4,Mediana
+2025-529,414,2025-03-03,5,2,589789,1179578,Tienda Física,Audífonos,2,Accesorios,2025,3,1,Grande
+2025-530,365,2025-04-27,4,3,103944,311832,Tienda Física,Monitor,1,Tecnología,2025,4,2,Mediana
+2025-531,34,2025-09-23,2,1,276294,276294,App,Mouse,2,Accesorios,2025,9,3,Mediana
+2025-532,297,2025-01-10,5,3,125140,375420,App,Audífonos,2,Accesorios,2025,1,1,Mediana
+2025-533,475,2025-07-12,4,4,553410,2213640,Web,Monitor,1,Tecnología,2025,7,3,Grande
+2025-534,231,2025-02-18,6,1,247268,247268,Web,Tablet,1,Tecnología,2025,2,1,Mediana
+2025-535,145,2025-03-03,5,2,680392,1360784,Tienda Física,Audífonos,2,Accesorios,2025,3,1,Grande
+2025-536,308,2025-06-20,5,4,564661,2258644,Tienda Física,Audífonos,2,Accesorios,2025,6,2,Grande
+2025-537,147,2025-05-21,4,2,75184,150368,App,Monitor,1,Tecnología,2025,5,2,Pequeña
+2025-538,97,2025-10-19,6,1,13626,13626,App,Tablet,1,Tecnología,2025,10,4,Pequeña
+2025-539,108,2025-03-12,2,3,757320,2271960,App,Mouse,2,Accesorios,2025,3,1,Grande
+2025-540,219,2025-03-21,5,4,653198,2612792,App,Audífonos,2,Accesorios,2025,3,1,Grande
+2025-541,471,2025-01-25,4,4,567749,2270996,Web,Monitor,1,Tecnología,2025,1,1,Grande
+2025-542,120,2025-07-17,5,2,483006,966012,Web,Audífonos,2,Accesorios,2025,7,3,Mediana
+2025-543,93,2025-07-12,3,4,83568,334272,Web,Teclado,2,Accesorios,2025,7,3,Mediana
+2025-544,387,2025-08-21,2,1,771058,771058,Tienda Física,Mouse,2,Accesorios,2025,8,3,Mediana
+2025-545,153,2025-02-24,5,2,784124,1568248,Web,Audífonos,2,Accesorios,2025,2,1,Grande
+2025-546,354,2025-07-17,5,4,34502,138008,Tienda Física,Audífonos,2,Accesorios,2025,7,3,Pequeña
+2025-547,373,2025-07-20,5,1,746854,746854,Web,Audífonos,2,Accesorios,2025,7,3,Mediana
+2025-548,322,2025-04-28,3,3,84231,252693,Tienda Física,Teclado,2,Accesorios,2025,4,2,Mediana
+2025-549,42,2025-01-17,2,3,503896,1511688,Tienda Física,Mouse,2,Accesorios,2025,1,1,Grande
+2025-550,431,2025-04-10,2,3,465229,1395687,Tienda Física,Mouse,2,Accesorios,2025,4,2,Grande
+2025-551,17,2025-09-03,5,3,687236,2061708,Tienda Física,Audífonos,2,Accesorios,2025,9,3,Grande
+2025-552,455,2025-07-16,1,3,558387,1675161,App,Notebook,1,Tecnología,2025,7,3,Grande
+2025-553,204,2025-11-03,4,4,782291,3129164,App,Monitor,1,Tecnología,2025,11,4,Grande
+2025-554,325,2025-07-30,2,2,228168,456336,App,Mouse,2,Accesorios,2025,7,3,Mediana
+2025-555,17,2025-04-09,6,4,234970,939880,Tienda Física,Tablet,1,Tecnología,2025,4,2,Mediana
+2025-556,209,2025-09-09,1,3,592943,1778829,Web,Notebook,1,Tecnología,2025,9,3,Grande
+2025-557,271,2025-08-02,4,4,654795,2619180,Tienda Física,Monitor,1,Tecnología,2025,8,3,Grande
+2025-558,211,2025-11-17,5,4,730531,2922124,Web,Audífonos,2,Accesorios,2025,11,4,Grande
+2025-559,433,2025-02-16,5,1,683289,683289,Tienda Física,Audífonos,2,Accesorios,2025,2,1,Mediana
+2025-560,315,2025-12-08,6,3,471691,1415073,App,Tablet,1,Tecnología,2025,12,4,Grande
+2025-561,368,2025-08-08,6,4,672554,2690216,App,Tablet,1,Tecnología,2025,8,3,Grande
+2025-562,167,2025-03-13,1,1,39777,39777,App,Notebook,1,Tecnología,2025,3,1,Pequeña
+2025-563,479,2025-02-07,6,2,424627,849254,Tienda Física,Tablet,1,Tecnología,2025,2,1,Mediana
+2025-564,393,2025-07-19,3,1,434429,434429,Tienda Física,Teclado,2,Accesorios,2025,7,3,Mediana
+2025-565,179,2025-08-08,3,2,323732,647464,App,Teclado,2,Accesorios,2025,8,3,Mediana
+2025-566,4,2025-07-23,4,4,352424,1409696,App,Monitor,1,Tecnología,2025,7,3,Grande
+2025-567,235,2025-10-06,6,2,742318,1484636,Web,Tablet,1,Tecnología,2025,10,4,Grande
+2025-568,166,2025-08-05,4,3,255847,767541,Web,Monitor,1,Tecnología,2025,8,3,Mediana
+2025-569,135,2025-04-16,1,3,237467,712401,Web,Notebook,1,Tecnología,2025,4,2,Mediana
+2025-570,108,2025-12-25,2,2,625781,1251562,App,Mouse,2,Accesorios,2025,12,4,Grande
+2025-571,450,2025-04-18,2,3,563949,1691847,App,Mouse,2,Accesorios,2025,4,2,Grande
+2025-572,17,2025-10-24,4,3,567373,1702119,Tienda Física,Monitor,1,Tecnología,2025,10,4,Grande
+2025-573,499,2025-06-11,4,3,501638,1504914,App,Monitor,1,Tecnología,2025,6,2,Grande
+2025-574,498,2025-06-28,6,1,350281,350281,App,Tablet,1,Tecnología,2025,6,2,Mediana
+2025-575,418,2025-11-22,4,3,355165,1065495,App,Monitor,1,Tecnología,2025,11,4,Grande
+2025-576,357,2025-01-03,2,4,261842,1047368,App,Mouse,2,Accesorios,2025,1,1,Grande
+2025-577,342,2025-11-28,2,3,679250,2037750,Web,Mouse,2,Accesorios,2025,11,4,Grande
+2025-578,176,2025-11-18,1,3,347164,1041492,App,Notebook,1,Tecnología,2025,11,4,Grande
+2025-579,231,2025-07-30,1,4,2962067,11848268,Web,Notebook,1,Tecnología,2025,7,3,Grande
+2025-580,480,2025-07-24,2,1,730602,730602,Tienda Física,Mouse,2,Accesorios,2025,7,3,Mediana
+2025-581,277,2025-09-16,6,4,26535,106140,Web,Tablet,1,Tecnología,2025,9,3,Pequeña
+2025-582,357,2025-10-23,6,3,295291,885873,Web,Tablet,1,Tecnología,2025,10,4,Mediana
+2025-583,324,2025-06-04,6,2,633756,1267512,App,Tablet,1,Tecnología,2025,6,2,Grande
+2025-584,273,2025-12-03,4,4,501874,2007496,Web,Monitor,1,Tecnología,2025,12,4,Grande
+2025-585,258,2025-03-07,1,1,22467,22467,Tienda Física,Notebook,1,Tecnología,2025,3,1,Pequeña
+2025-586,474,2025-11-19,6,3,396154,1188462,Tienda Física,Tablet,1,Tecnología,2025,11,4,Grande
+2025-587,444,2025-03-25,2,4,335188,1340752,Tienda Física,Mouse,2,Accesorios,2025,3,1,Grande
+2025-588,39,2025-06-30,5,1,728648,728648,Web,Audífonos,2,Accesorios,2025,6,2,Mediana
+2025-589,268,2025-02-26,5,4,491632,1966528,App,Audífonos,2,Accesorios,2025,2,1,Grande
+2025-590,336,2025-01-05,5,3,309266,927798,App,Audífonos,2,Accesorios,2025,1,1,Mediana
+2025-591,11,2025-07-03,6,3,372612,1117836,App,Tablet,1,Tecnología,2025,7,3,Grande
+2025-592,362,2025-07-19,4,2,214354,428708,Tienda Física,Monitor,1,Tecnología,2025,7,3,Mediana
+2025-593,75,2025-03-07,5,3,259836,779508,App,Audífonos,2,Accesorios,2025,3,1,Mediana
+2025-594,297,2025-07-18,4,1,229057,229057,Tienda Física,Monitor,1,Tecnología,2025,7,3,Mediana
+2025-595,145,2025-04-01,5,3,444044,1332132,App,Audífonos,2,Accesorios,2025,4,2,Grande
+2025-596,70,2025-08-02,6,2,374543,749086,Web,Tablet,1,Tecnología,2025,8,3,Mediana
+2025-597,335,2025-03-13,4,1,423532,423532,Web,Monitor,1,Tecnología,2025,3,1,Mediana
+2025-598,49,2025-04-24,4,1,488997,488997,Tienda Física,Monitor,1,Tecnología,2025,4,2,Mediana
+2025-599,133,2025-10-20,2,2,281733,563466,App,Mouse,2,Accesorios,2025,10,4,Mediana
+2025-600,243,2025-05-03,2,3,506297,1518891,App,Mouse,2,Accesorios,2025,5,2,Grande
+2025-601,87,2025-12-24,1,4,289349,1157396,Tienda Física,Notebook,1,Tecnología,2025,12,4,Grande
+2025-602,98,2025-06-18,4,2,495725,991450,Tienda Física,Monitor,1,Tecnología,2025,6,2,Mediana
+2025-603,325,2025-10-28,4,1,782838,782838,Web,Monitor,1,Tecnología,2025,10,4,Mediana
+2025-604,347,2025-05-08,6,2,786684,1573368,Tienda Física,Tablet,1,Tecnología,2025,5,2,Grande
+2025-605,426,2025-08-14,5,3,217397,652191,Web,Audífonos,2,Accesorios,2025,8,3,Mediana
+2025-606,399,2025-03-05,2,4,656290,2625160,Web,Mouse,2,Accesorios,2025,3,1,Grande
+2025-607,182,2025-02-08,5,2,618434,1236868,App,Audífonos,2,Accesorios,2025,2,1,Grande
+2025-608,3,2025-04-07,5,4,730394,2921576,App,Audífonos,2,Accesorios,2025,4,2,Grande
+2025-609,442,2025-01-21,3,3,479984,1439952,Tienda Física,Teclado,2,Accesorios,2025,1,1,Grande
+2025-610,223,2025-04-01,6,2,702289,1404578,Tienda Física,Tablet,1,Tecnología,2025,4,2,Grande
+2025-611,111,2025-04-09,2,3,548304,1644912,Tienda Física,Mouse,2,Accesorios,2025,4,2,Grande
+2025-612,159,2025-10-08,4,3,242320,726960,Tienda Física,Monitor,1,Tecnología,2025,10,4,Mediana
+2025-613,486,2025-02-20,4,3,86478,259434,App,Monitor,1,Tecnología,2025,2,1,Mediana
+2025-614,210,2025-03-10,6,4,726284,2905136,Web,Tablet,1,Tecnología,2025,3,1,Grande
+2025-615,258,2025-07-08,2,4,403445,1613780,Tienda Física,Mouse,2,Accesorios,2025,7,3,Grande
+2025-616,10,2025-03-26,2,4,57779,231116,Web,Mouse,2,Accesorios,2025,3,1,Mediana
+2025-617,495,2025-08-06,6,4,387218,1548872,Web,Tablet,1,Tecnología,2025,8,3,Grande
+2025-618,469,2025-08-24,5,2,208910,417820,App,Audífonos,2,Accesorios,2025,8,3,Mediana
+2025-619,72,2025-05-24,5,2,19472,38944,Web,Audífonos,2,Accesorios,2025,5,2,Pequeña
+2025-620,259,2025-07-27,4,3,600348,1801044,Tienda Física,Monitor,1,Tecnología,2025,7,3,Grande
+2025-621,235,2025-06-04,5,2,485573,971146,App,Audífonos,2,Accesorios,2025,6,2,Mediana
+2025-622,90,2025-12-24,2,2,689930,1379860,App,Mouse,2,Accesorios,2025,12,4,Grande
+2025-623,217,2025-04-07,3,4,78359,313436,Web,Teclado,2,Accesorios,2025,4,2,Mediana
+2025-624,199,2025-12-07,6,1,477143,477143,App,Tablet,1,Tecnología,2025,12,4,Mediana
+2025-625,302,2025-09-22,2,1,395007,395007,Tienda Física,Mouse,2,Accesorios,2025,9,3,Mediana
+2025-626,94,2025-03-21,2,2,695852,1391704,Web,Mouse,2,Accesorios,2025,3,1,Grande
+2025-627,374,2025-08-20,5,2,191062,382124,Web,Audífonos,2,Accesorios,2025,8,3,Mediana
+2025-628,336,2025-06-15,6,4,3069850,12279400,Tienda Física,Tablet,1,Tecnología,2025,6,2,Grande
+2025-629,14,2025-03-14,5,1,451848,451848,Web,Audífonos,2,Accesorios,2025,3,1,Mediana
+2025-630,91,2025-11-01,5,2,290092,580184,Tienda Física,Audífonos,2,Accesorios,2025,11,4,Mediana
+2025-631,476,2025-02-11,4,4,756716,3026864,Tienda Física,Monitor,1,Tecnología,2025,2,1,Grande
+2025-632,42,2025-02-27,4,1,583722,583722,App,Monitor,1,Tecnología,2025,2,1,Mediana
+2025-633,322,2025-05-09,1,1,520874,520874,Tienda Física,Notebook,1,Tecnología,2025,5,2,Mediana
+2025-634,330,2025-07-01,2,4,178600,714400,Web,Mouse,2,Accesorios,2025,7,3,Mediana
+2025-635,67,2025-11-22,6,1,264265,264265,Web,Tablet,1,Tecnología,2025,11,4,Mediana
+2025-636,66,2025-07-23,2,2,494353,988706,App,Mouse,2,Accesorios,2025,7,3,Mediana
+2025-637,293,2025-07-31,4,3,489767,1469301,Web,Monitor,1,Tecnología,2025,7,3,Grande
+2025-638,449,2025-04-26,1,3,237444,712332,Web,Notebook,1,Tecnología,2025,4,2,Mediana
+2025-639,478,2025-02-15,1,3,476690,1430070,Tienda Física,Notebook,1,Tecnología,2025,2,1,Grande
+2025-640,331,2025-11-29,6,4,181929,727716,Web,Tablet,1,Tecnología,2025,11,4,Mediana
+2025-641,24,2025-01-28,2,3,60711,182133,Tienda Física,Mouse,2,Accesorios,2025,1,1,Pequeña
+2025-642,465,2025-09-28,3,2,254942,509884,Web,Teclado,2,Accesorios,2025,9,3,Mediana
+2025-643,482,2025-03-09,3,1,595842,595842,Tienda Física,Teclado,2,Accesorios,2025,3,1,Mediana
+2025-644,325,2025-04-13,3,1,551770,551770,Web,Teclado,2,Accesorios,2025,4,2,Mediana
+2025-645,490,2025-11-11,2,3,123606,370818,Tienda Física,Mouse,2,Accesorios,2025,11,4,Mediana
+2025-646,259,2025-01-26,4,3,372544,1117632,Web,Monitor,1,Tecnología,2025,1,1,Grande
+2025-647,357,2025-05-12,2,1,687758,687758,App,Mouse,2,Accesorios,2025,5,2,Mediana
+2025-648,117,2025-11-29,4,4,277291,1109164,Web,Monitor,1,Tecnología,2025,11,4,Grande
+2025-649,188,2025-08-05,3,4,306952,1227808,App,Teclado,2,Accesorios,2025,8,3,Grande
+2025-650,83,2025-11-03,1,1,122255,122255,App,Notebook,1,Tecnología,2025,11,4,Pequeña
+2025-651,216,2025-12-23,3,1,703619,703619,Web,Teclado,2,Accesorios,2025,12,4,Mediana
+2025-652,356,2025-06-29,4,4,643123,2572492,Web,Monitor,1,Tecnología,2025,6,2,Grande
+2025-653,466,2025-01-22,2,4,263608,1054432,App,Mouse,2,Accesorios,2025,1,1,Grande
+2025-654,21,2025-04-13,4,4,34363,137452,Tienda Física,Monitor,1,Tecnología,2025,4,2,Pequeña
+2025-655,39,2025-03-26,5,2,346473,692946,Web,Audífonos,2,Accesorios,2025,3,1,Mediana
+2025-656,336,2025-02-18,4,3,506712,1520136,Web,Monitor,1,Tecnología,2025,2,1,Grande
+2025-657,2,2025-04-09,4,4,460400,1841600,App,Monitor,1,Tecnología,2025,4,2,Grande
+2025-658,359,2025-01-02,2,3,352962,1058886,Tienda Física,Mouse,2,Accesorios,2025,1,1,Grande
+2025-659,297,2025-03-23,3,3,181236,543708,Web,Teclado,2,Accesorios,2025,3,1,Mediana
+2025-660,391,2025-12-21,6,3,768795,2306385,Web,Tablet,1,Tecnología,2025,12,4,Grande
+2025-661,337,2025-03-15,2,2,249647,499294,Tienda Física,Mouse,2,Accesorios,2025,3,1,Mediana
+2025-662,337,2025-05-17,5,1,2716358,2716358,Web,Audífonos,2,Accesorios,2025,5,2,Grande
+2025-663,417,2025-03-03,4,4,761624,3046496,Web,Monitor,1,Tecnología,2025,3,1,Grande
+2025-664,29,2025-05-23,5,2,471261,942522,App,Audífonos,2,Accesorios,2025,5,2,Mediana
+2025-665,120,2025-12-15,2,1,614494,614494,App,Mouse,2,Accesorios,2025,12,4,Mediana
+2025-666,242,2025-08-19,1,1,33723,33723,Tienda Física,Notebook,1,Tecnología,2025,8,3,Pequeña
+2025-667,270,2025-03-03,3,3,631169,1893507,App,Teclado,2,Accesorios,2025,3,1,Grande
+2025-668,320,2025-07-29,6,1,39545,39545,App,Tablet,1,Tecnología,2025,7,3,Pequeña
+2025-669,255,2025-11-09,4,2,365288,730576,App,Monitor,1,Tecnología,2025,11,4,Mediana
+2025-670,461,2025-12-19,4,3,87261,261783,Web,Monitor,1,Tecnología,2025,12,4,Mediana
+2025-671,8,2025-03-10,4,2,216724,433448,Tienda Física,Monitor,1,Tecnología,2025,3,1,Mediana
+2025-672,45,2025-10-16,1,2,674607,1349214,App,Notebook,1,Tecnología,2025,10,4,Grande
+2025-673,67,2025-07-04,6,2,172434,344868,Web,Tablet,1,Tecnología,2025,7,3,Mediana
+2025-674,286,2025-03-03,1,2,88209,176418,Tienda Física,Notebook,1,Tecnología,2025,3,1,Pequeña
+2025-675,430,2025-08-19,4,1,158620,158620,Tienda Física,Monitor,1,Tecnología,2025,8,3,Pequeña
+2025-676,311,2025-09-03,1,2,11468,22936,Web,Notebook,1,Tecnología,2025,9,3,Pequeña
+2025-677,172,2025-12-18,4,3,235409,706227,App,Monitor,1,Tecnología,2025,12,4,Mediana
+2025-678,333,2025-04-16,6,1,378697,378697,App,Tablet,1,Tecnología,2025,4,2,Mediana
+2025-679,256,2025-06-11,3,3,577256,1731768,Web,Teclado,2,Accesorios,2025,6,2,Grande
+2025-680,286,2025-11-19,6,2,574790,1149580,Web,Tablet,1,Tecnología,2025,11,4,Grande
+2025-681,3,2025-02-22,2,1,606093,606093,App,Mouse,2,Accesorios,2025,2,1,Mediana
+2025-682,299,2025-10-25,4,2,665152,1330304,Web,Monitor,1,Tecnología,2025,10,4,Grande
+2025-683,484,2025-12-20,2,3,593526,1780578,App,Mouse,2,Accesorios,2025,12,4,Grande
+2025-684,146,2025-02-15,5,4,239991,959964,App,Audífonos,2,Accesorios,2025,2,1,Mediana
+2025-685,181,2025-09-12,3,2,357761,715522,Web,Teclado,2,Accesorios,2025,9,3,Mediana
+2025-686,380,2025-11-09,6,4,609649,2438596,Tienda Física,Tablet,1,Tecnología,2025,11,4,Grande
+2025-687,329,2025-10-08,3,4,386295,1545180,Tienda Física,Teclado,2,Accesorios,2025,10,4,Grande
+2025-688,261,2025-11-24,3,3,251535,754605,Tienda Física,Teclado,2,Accesorios,2025,11,4,Mediana
+2025-689,215,2025-01-26,3,4,181999,727996,Tienda Física,Teclado,2,Accesorios,2025,1,1,Mediana
+2025-690,190,2025-06-19,3,4,722625,2890500,Web,Teclado,2,Accesorios,2025,6,2,Grande
+2025-691,167,2025-08-17,4,1,50736,50736,Tienda Física,Monitor,1,Tecnología,2025,8,3,Pequeña
+2025-692,97,2025-03-13,2,4,309531,1238124,Web,Mouse,2,Accesorios,2025,3,1,Grande
+2025-693,106,2025-06-26,4,1,463572,463572,App,Monitor,1,Tecnología,2025,6,2,Mediana
+2025-694,133,2025-06-10,6,3,303132,909396,Tienda Física,Tablet,1,Tecnología,2025,6,2,Mediana
+2025-695,279,2025-04-27,1,3,675329,2025987,App,Notebook,1,Tecnología,2025,4,2,Grande
+2025-696,282,2025-06-03,5,3,291504,874512,Web,Audífonos,2,Accesorios,2025,6,2,Mediana
+2025-697,241,2025-05-14,6,2,44160,88320,App,Tablet,1,Tecnología,2025,5,2,Pequeña
+2025-698,50,2025-03-13,6,2,620961,1241922,App,Tablet,1,Tecnología,2025,3,1,Grande
+2025-699,273,2025-03-11,6,1,422857,422857,App,Tablet,1,Tecnología,2025,3,1,Mediana
+2025-700,150,2025-05-20,6,2,60713,121426,Tienda Física,Tablet,1,Tecnología,2025,5,2,Pequeña
+2025-701,398,2025-04-14,6,3,391382,1174146,App,Tablet,1,Tecnología,2025,4,2,Grande
+2025-702,89,2025-07-02,5,1,425976,425976,Tienda Física,Audífonos,2,Accesorios,2025,7,3,Mediana
+2025-703,9,2025-09-26,4,2,443048,886096,App,Monitor,1,Tecnología,2025,9,3,Mediana
+2025-704,51,2025-05-11,2,2,793077,1586154,Tienda Física,Mouse,2,Accesorios,2025,5,2,Grande
+2025-705,490,2025-07-11,3,2,4314372,8628744,Web,Teclado,2,Accesorios,2025,7,3,Grande
+2025-706,403,2025-11-25,3,2,80246,160492,Web,Teclado,2,Accesorios,2025,11,4,Pequeña
+2025-707,323,2025-05-09,3,1,147821,147821,Tienda Física,Teclado,2,Accesorios,2025,5,2,Pequeña
+2025-708,92,2025-11-29,5,2,507163,1014326,Web,Audífonos,2,Accesorios,2025,11,4,Grande
+2025-709,130,2025-01-24,5,1,697823,697823,Tienda Física,Audífonos,2,Accesorios,2025,1,1,Mediana
+2025-710,406,2025-11-10,4,3,675078,2025234,App,Monitor,1,Tecnología,2025,11,4,Grande
+2025-711,29,2025-05-23,3,4,158469,633876,Tienda Física,Teclado,2,Accesorios,2025,5,2,Mediana
+2025-712,42,2025-11-26,1,3,638431,1915293,Web,Notebook,1,Tecnología,2025,11,4,Grande
+2025-713,192,2025-08-03,3,2,259495,518990,App,Teclado,2,Accesorios,2025,8,3,Mediana
+2025-714,166,2025-01-29,3,4,542249,2168996,Tienda Física,Teclado,2,Accesorios,2025,1,1,Grande
+2025-715,334,2025-11-19,1,4,795216,3180864,App,Notebook,1,Tecnología,2025,11,4,Grande
+2025-716,346,2025-11-17,2,1,629256,629256,Web,Mouse,2,Accesorios,2025,11,4,Mediana
+2025-717,283,2025-02-13,2,3,471823,1415469,Web,Mouse,2,Accesorios,2025,2,1,Grande
+2025-718,17,2025-09-01,3,4,700681,2802724,Tienda Física,Teclado,2,Accesorios,2025,9,3,Grande
+2025-719,76,2025-08-02,4,2,159805,319610,Tienda Física,Monitor,1,Tecnología,2025,8,3,Mediana
+2025-720,158,2025-03-10,5,1,489498,489498,Tienda Física,Audífonos,2,Accesorios,2025,3,1,Mediana
+2025-721,347,2025-06-10,1,2,374446,748892,Tienda Física,Notebook,1,Tecnología,2025,6,2,Mediana
+2025-722,94,2025-01-31,6,1,3035108,3035108,Tienda Física,Tablet,1,Tecnología,2025,1,1,Grande
+2025-723,343,2025-01-02,1,2,602610,1205220,Tienda Física,Notebook,1,Tecnología,2025,1,1,Grande
+2025-724,101,2025-06-29,5,2,429204,858408,Web,Audífonos,2,Accesorios,2025,6,2,Mediana
+2025-725,341,2025-02-07,5,4,140364,561456,App,Audífonos,2,Accesorios,2025,2,1,Mediana
+2025-726,25,2025-01-26,2,1,62127,62127,App,Mouse,2,Accesorios,2025,1,1,Pequeña
+2025-727,169,2025-01-01,1,3,283120,849360,Tienda Física,Notebook,1,Tecnología,2025,1,1,Mediana
+2025-728,261,2025-02-17,5,3,349851,1049553,Web,Audífonos,2,Accesorios,2025,2,1,Grande
+2025-729,313,2025-04-04,3,3,245851,737553,Web,Teclado,2,Accesorios,2025,4,2,Mediana
+2025-730,482,2025-07-04,6,3,117724,353172,Tienda Física,Tablet,1,Tecnología,2025,7,3,Mediana
+2025-731,438,2025-03-10,3,4,413923,1655692,App,Teclado,2,Accesorios,2025,3,1,Grande
+2025-732,161,2025-01-16,2,4,461067,1844268,App,Mouse,2,Accesorios,2025,1,1,Grande
+2025-733,372,2025-02-08,4,1,67196,67196,Web,Monitor,1,Tecnología,2025,2,1,Pequeña
+2025-734,430,2025-06-21,6,4,53822,215288,Web,Tablet,1,Tecnología,2025,6,2,Mediana
+2025-735,488,2025-06-27,2,3,402575,1207725,Web,Mouse,2,Accesorios,2025,6,2,Grande
+2025-736,188,2025-01-15,3,4,420609,1682436,Web,Teclado,2,Accesorios,2025,1,1,Grande
+2025-737,319,2025-11-26,5,2,169912,339824,App,Audífonos,2,Accesorios,2025,11,4,Mediana
+2025-738,305,2025-03-31,2,3,694547,2083641,Web,Mouse,2,Accesorios,2025,3,1,Grande
+2025-739,60,2025-01-29,3,4,180457,721828,Tienda Física,Teclado,2,Accesorios,2025,1,1,Mediana
+2025-740,245,2025-10-16,6,3,166080,498240,Web,Tablet,1,Tecnología,2025,10,4,Mediana
+2025-741,277,2025-07-05,1,3,397128,1191384,App,Notebook,1,Tecnología,2025,7,3,Grande
+2025-742,93,2025-06-30,4,2,261666,523332,Tienda Física,Monitor,1,Tecnología,2025,6,2,Mediana
+2025-743,440,2025-08-26,5,2,345510,691020,Web,Audífonos,2,Accesorios,2025,8,3,Mediana
+2025-744,231,2025-07-08,2,1,215728,215728,App,Mouse,2,Accesorios,2025,7,3,Mediana
+2025-745,17,2025-04-30,3,3,628821,1886463,Web,Teclado,2,Accesorios,2025,4,2,Grande
+2025-746,34,2025-11-26,4,1,574931,574931,App,Monitor,1,Tecnología,2025,11,4,Mediana
+2025-747,344,2025-08-06,5,3,731754,2195262,Web,Audífonos,2,Accesorios,2025,8,3,Grande
+2025-748,253,2025-03-21,6,3,54912,164736,Tienda Física,Tablet,1,Tecnología,2025,3,1,Pequeña
+2025-749,272,2025-01-12,3,2,347935,695870,Tienda Física,Teclado,2,Accesorios,2025,1,1,Mediana
+2025-750,241,2025-08-16,5,2,640698,1281396,Web,Audífonos,2,Accesorios,2025,8,3,Grande
+2025-751,288,2025-10-10,1,2,14055,28110,Web,Notebook,1,Tecnología,2025,10,4,Pequeña
+2025-752,66,2025-09-16,1,4,670284,2681136,App,Notebook,1,Tecnología,2025,9,3,Grande
+2025-753,103,2025-04-11,1,3,80400,241200,App,Notebook,1,Tecnología,2025,4,2,Mediana
+2025-754,301,2025-08-25,2,3,151774,455322,App,Mouse,2,Accesorios,2025,8,3,Mediana
+2025-755,121,2025-07-18,6,2,570309,1140618,App,Tablet,1,Tecnología,2025,7,3,Grande
+2025-756,255,2025-11-11,2,3,583399,1750197,Tienda Física,Mouse,2,Accesorios,2025,11,4,Grande
+2025-757,285,2025-08-20,2,4,237600,950400,App,Mouse,2,Accesorios,2025,8,3,Mediana
+2025-758,496,2025-12-13,5,3,745733,2237199,Web,Audífonos,2,Accesorios,2025,12,4,Grande
+2025-759,187,2025-02-06,4,2,128637,257274,App,Monitor,1,Tecnología,2025,2,1,Mediana
+2025-760,137,2025-11-24,4,3,489551,1468653,App,Monitor,1,Tecnología,2025,11,4,Grande
+2025-761,362,2025-02-22,6,3,768685,2306055,Tienda Física,Tablet,1,Tecnología,2025,2,1,Grande
+2025-762,235,2025-04-10,3,3,268480,805440,App,Teclado,2,Accesorios,2025,4,2,Mediana
+2025-763,87,2025-04-11,3,4,39086,156344,Web,Teclado,2,Accesorios,2025,4,2,Pequeña
+2025-764,463,2025-12-30,5,2,750970,1501940,App,Audífonos,2,Accesorios,2025,12,4,Grande
+2025-765,84,2025-11-02,4,4,722917,2891668,App,Monitor,1,Tecnología,2025,11,4,Grande
+2025-766,279,2025-11-27,3,2,578178,1156356,App,Teclado,2,Accesorios,2025,11,4,Grande
+2025-767,123,2025-02-19,5,3,651462,1954386,App,Audífonos,2,Accesorios,2025,2,1,Grande
+2025-768,118,2025-07-10,2,3,739992,2219976,Tienda Física,Mouse,2,Accesorios,2025,7,3,Grande
+2025-769,181,2025-03-16,6,4,400555,1602220,Tienda Física,Tablet,1,Tecnología,2025,3,1,Grande
+2025-770,281,2025-07-30,5,2,68382,136764,App,Audífonos,2,Accesorios,2025,7,3,Pequeña
+2025-771,149,2025-11-02,4,4,655099,2620396,Tienda Física,Monitor,1,Tecnología,2025,11,4,Grande
+2025-772,141,2025-11-30,5,4,659179,2636716,Web,Audífonos,2,Accesorios,2025,11,4,Grande
+2025-773,121,2025-05-29,3,3,87924,263772,App,Teclado,2,Accesorios,2025,5,2,Mediana
+2025-774,146,2025-08-29,1,4,477186,1908744,Web,Notebook,1,Tecnología,2025,8,3,Grande
+2025-775,43,2025-07-25,2,2,663525,1327050,Tienda Física,Mouse,2,Accesorios,2025,7,3,Grande
+2025-776,396,2025-11-18,4,4,785404,3141616,App,Monitor,1,Tecnología,2025,11,4,Grande
+2025-777,399,2025-05-15,5,1,376047,376047,App,Audífonos,2,Accesorios,2025,5,2,Mediana
+2025-778,156,2025-11-22,6,4,428973,1715892,Tienda Física,Tablet,1,Tecnología,2025,11,4,Grande
+2025-779,344,2025-12-10,6,3,528993,1586979,Web,Tablet,1,Tecnología,2025,12,4,Grande
+2025-780,376,2025-02-16,6,2,411063,822126,Tienda Física,Tablet,1,Tecnología,2025,2,1,Mediana
+2025-781,203,2025-11-17,6,2,570151,1140302,App,Tablet,1,Tecnología,2025,11,4,Grande
+2025-782,44,2025-07-18,4,1,3741070,3741070,Tienda Física,Monitor,1,Tecnología,2025,7,3,Grande
+2025-783,469,2025-08-22,2,3,2820848,8462544,Tienda Física,Mouse,2,Accesorios,2025,8,3,Grande
+2025-784,116,2025-07-29,5,2,63019,126038,App,Audífonos,2,Accesorios,2025,7,3,Pequeña
+2025-785,466,2025-04-16,4,4,632215,2528860,App,Monitor,1,Tecnología,2025,4,2,Grande
+2025-786,237,2025-04-10,5,4,525971,2103884,Web,Audífonos,2,Accesorios,2025,4,2,Grande
+2025-787,481,2025-11-24,1,2,407597,815194,Tienda Física,Notebook,1,Tecnología,2025,11,4,Mediana
+2025-788,63,2025-08-14,2,1,246836,246836,Tienda Física,Mouse,2,Accesorios,2025,8,3,Mediana
+2025-789,127,2025-12-25,4,3,107469,322407,Tienda Física,Monitor,1,Tecnología,2025,12,4,Mediana
+2025-790,462,2025-05-12,5,2,407797,815594,App,Audífonos,2,Accesorios,2025,5,2,Mediana
+2025-791,466,2025-01-07,4,4,32936,131744,App,Monitor,1,Tecnología,2025,1,1,Pequeña
+2025-792,156,2025-09-07,5,3,792046,2376138,Tienda Física,Audífonos,2,Accesorios,2025,9,3,Grande
+2025-793,240,2025-11-19,4,3,215671,647013,Tienda Física,Monitor,1,Tecnología,2025,11,4,Mediana
+2025-794,263,2025-10-17,5,3,536701,1610103,App,Audífonos,2,Accesorios,2025,10,4,Grande
+2025-795,403,2025-04-25,2,1,400447,400447,App,Mouse,2,Accesorios,2025,4,2,Mediana
+2025-796,41,2025-03-19,5,2,240168,480336,Web,Audífonos,2,Accesorios,2025,3,1,Mediana
+2025-797,403,2025-07-10,3,4,555865,2223460,Tienda Física,Teclado,2,Accesorios,2025,7,3,Grande
+2025-798,147,2025-07-25,4,1,77194,77194,Web,Monitor,1,Tecnología,2025,7,3,Pequeña
+2025-799,240,2025-09-16,2,3,670501,2011503,Web,Mouse,2,Accesorios,2025,9,3,Grande
+2025-800,105,2025-07-23,2,3,629265,1887795,App,Mouse,2,Accesorios,2025,7,3,Grande
+2025-801,262,2025-08-09,3,3,384695,1154085,Tienda Física,Teclado,2,Accesorios,2025,8,3,Grande
+2025-802,222,2025-09-15,2,1,513150,513150,Web,Mouse,2,Accesorios,2025,9,3,Mediana
+2025-803,225,2025-07-19,2,2,612294,1224588,Web,Mouse,2,Accesorios,2025,7,3,Grande
+2025-804,246,2025-01-06,4,1,760190,760190,Tienda Física,Monitor,1,Tecnología,2025,1,1,Mediana
+2025-805,104,2025-06-04,5,3,423151,1269453,Web,Audífonos,2,Accesorios,2025,6,2,Grande
+2025-806,235,2025-02-09,4,1,461069,461069,Web,Monitor,1,Tecnología,2025,2,1,Mediana
+2025-807,273,2025-10-25,6,4,173384,693536,App,Tablet,1,Tecnología,2025,10,4,Mediana
+2025-808,137,2025-11-06,3,2,191446,382892,App,Teclado,2,Accesorios,2025,11,4,Mediana
+2025-809,281,2025-06-01,3,4,772557,3090228,App,Teclado,2,Accesorios,2025,6,2,Grande
+2025-810,302,2025-01-08,6,3,331199,993597,Tienda Física,Tablet,1,Tecnología,2025,1,1,Mediana
+2025-811,235,2025-02-07,3,1,191549,191549,App,Teclado,2,Accesorios,2025,2,1,Pequeña
+2025-812,421,2025-02-03,3,4,667191,2668764,Tienda Física,Teclado,2,Accesorios,2025,2,1,Grande
+2025-813,236,2025-11-04,1,1,374206,374206,App,Notebook,1,Tecnología,2025,11,4,Mediana
+2025-814,464,2025-04-23,5,1,634416,634416,Web,Audífonos,2,Accesorios,2025,4,2,Mediana
+2025-815,205,2025-07-16,5,2,74340,148680,App,Audífonos,2,Accesorios,2025,7,3,Pequeña
+2025-816,262,2025-03-06,3,1,564636,564636,Web,Teclado,2,Accesorios,2025,3,1,Mediana
+2025-817,239,2025-08-21,6,4,272512,1090048,Tienda Física,Tablet,1,Tecnología,2025,8,3,Grande
+2025-818,395,2025-06-26,4,2,788928,1577856,Web,Monitor,1,Tecnología,2025,6,2,Grande
+2025-819,11,2025-02-08,6,2,735155,1470310,Web,Tablet,1,Tecnología,2025,2,1,Grande
+2025-820,218,2025-02-25,6,3,111735,335205,App,Tablet,1,Tecnología,2025,2,1,Mediana
+2025-821,388,2025-10-18,5,2,109083,218166,Web,Audífonos,2,Accesorios,2025,10,4,Mediana
+2025-822,180,2025-07-15,6,3,438886,1316658,Tienda Física,Tablet,1,Tecnología,2025,7,3,Grande
+2025-823,22,2025-08-13,5,3,484551,1453653,App,Audífonos,2,Accesorios,2025,8,3,Grande
+2025-824,93,2025-01-07,3,3,608411,1825233,Tienda Física,Teclado,2,Accesorios,2025,1,1,Grande
+2025-825,55,2025-03-31,2,2,686079,1372158,Web,Mouse,2,Accesorios,2025,3,1,Grande
+2025-826,233,2025-10-19,2,1,695388,695388,Web,Mouse,2,Accesorios,2025,10,4,Mediana
+2025-827,152,2025-05-21,4,1,409489,409489,Tienda Física,Monitor,1,Tecnología,2025,5,2,Mediana
+2025-828,93,2025-05-23,2,4,102091,408364,Tienda Física,Mouse,2,Accesorios,2025,5,2,Mediana
+2025-829,232,2025-05-20,1,4,712121,2848484,Web,Notebook,1,Tecnología,2025,5,2,Grande
+2025-830,201,2025-11-29,6,3,592296,1776888,Tienda Física,Tablet,1,Tecnología,2025,11,4,Grande
+2025-831,85,2025-08-28,5,3,77300,231900,App,Audífonos,2,Accesorios,2025,8,3,Mediana
+2025-832,363,2025-06-05,6,1,386460,386460,Tienda Física,Tablet,1,Tecnología,2025,6,2,Mediana
+2025-833,345,2025-11-23,3,3,620278,1860834,App,Teclado,2,Accesorios,2025,11,4,Grande
+2025-834,480,2025-03-27,3,2,799622,1599244,App,Teclado,2,Accesorios,2025,3,1,Grande
+2025-835,392,2025-10-16,1,4,700778,2803112,App,Notebook,1,Tecnología,2025,10,4,Grande
+2025-836,337,2025-08-26,2,4,263807,1055228,App,Mouse,2,Accesorios,2025,8,3,Grande
+2025-837,155,2025-03-05,4,2,555648,1111296,Tienda Física,Monitor,1,Tecnología,2025,3,1,Grande
+2025-838,254,2025-01-16,5,2,311075,622150,Web,Audífonos,2,Accesorios,2025,1,1,Mediana
+2025-839,208,2025-06-15,3,4,673431,2693724,App,Teclado,2,Accesorios,2025,6,2,Grande
+2025-840,181,2025-03-31,5,1,262515,262515,Tienda Física,Audífonos,2,Accesorios,2025,3,1,Mediana
+2025-841,300,2025-03-20,4,4,293126,1172504,Web,Monitor,1,Tecnología,2025,3,1,Grande
+2025-842,423,2025-04-06,2,4,243867,975468,Web,Mouse,2,Accesorios,2025,4,2,Mediana
+2025-843,103,2025-05-02,2,3,571669,1715007,Tienda Física,Mouse,2,Accesorios,2025,5,2,Grande
+2025-844,116,2025-07-01,3,2,298997,597994,Web,Teclado,2,Accesorios,2025,7,3,Mediana
+2025-845,318,2025-12-11,5,2,177567,355134,App,Audífonos,2,Accesorios,2025,12,4,Mediana
+2025-846,346,2025-07-03,4,2,622766,1245532,Web,Monitor,1,Tecnología,2025,7,3,Grande
+2025-847,332,2025-05-13,5,4,581386,2325544,Tienda Física,Audífonos,2,Accesorios,2025,5,2,Grande
+2025-848,137,2025-02-15,2,3,634860,1904580,App,Mouse,2,Accesorios,2025,2,1,Grande
+2025-849,192,2025-11-30,3,4,78274,313096,Tienda Física,Teclado,2,Accesorios,2025,11,4,Mediana
+2025-850,293,2025-04-14,2,2,287834,575668,Web,Mouse,2,Accesorios,2025,4,2,Mediana
+2025-851,287,2025-02-03,3,2,700091,1400182,App,Teclado,2,Accesorios,2025,2,1,Grande
+2025-852,455,2025-11-14,2,1,619269,619269,Tienda Física,Mouse,2,Accesorios,2025,11,4,Mediana
+2025-853,46,2025-05-11,6,1,152012,152012,Tienda Física,Tablet,1,Tecnología,2025,5,2,Pequeña
+2025-854,422,2025-05-08,4,2,404283,808566,App,Monitor,1,Tecnología,2025,5,2,Mediana
+2025-855,273,2025-12-06,3,2,777842,1555684,App,Teclado,2,Accesorios,2025,12,4,Grande
+2025-856,45,2025-11-11,4,3,726605,2179815,Web,Monitor,1,Tecnología,2025,11,4,Grande
+2025-857,228,2025-11-22,2,3,262773,788319,Tienda Física,Mouse,2,Accesorios,2025,11,4,Mediana
+2025-858,489,2025-12-23,6,3,431153,1293459,Web,Tablet,1,Tecnología,2025,12,4,Grande
+2025-859,232,2025-02-09,6,4,713700,2854800,Tienda Física,Tablet,1,Tecnología,2025,2,1,Grande
+2025-860,323,2025-11-16,2,1,82178,82178,Tienda Física,Mouse,2,Accesorios,2025,11,4,Pequeña
+2025-861,303,2025-08-28,6,4,523223,2092892,App,Tablet,1,Tecnología,2025,8,3,Grande
+2025-862,180,2025-06-26,3,3,445711,1337133,Web,Teclado,2,Accesorios,2025,6,2,Grande
+2025-863,396,2025-11-07,5,2,760406,1520812,Web,Audífonos,2,Accesorios,2025,11,4,Grande
+2025-864,49,2025-04-26,4,1,92212,92212,Tienda Física,Monitor,1,Tecnología,2025,4,2,Pequeña
+2025-865,25,2025-04-04,2,1,299372,299372,Tienda Física,Mouse,2,Accesorios,2025,4,2,Mediana
+2025-866,225,2025-01-12,2,4,341080,1364320,Tienda Física,Mouse,2,Accesorios,2025,1,1,Grande
+2025-867,447,2025-05-21,4,4,209899,839596,Tienda Física,Monitor,1,Tecnología,2025,5,2,Mediana
+2025-868,83,2025-12-10,2,1,382646,382646,Web,Mouse,2,Accesorios,2025,12,4,Mediana
+2025-869,396,2025-06-08,2,3,251482,754446,Web,Mouse,2,Accesorios,2025,6,2,Mediana
+2025-870,128,2025-12-25,6,1,722222,722222,Tienda Física,Tablet,1,Tecnología,2025,12,4,Mediana
+2025-871,313,2025-07-15,3,2,347766,695532,Tienda Física,Teclado,2,Accesorios,2025,7,3,Mediana
+2025-872,29,2025-03-18,2,1,610079,610079,Web,Mouse,2,Accesorios,2025,3,1,Mediana
+2025-873,81,2025-01-19,5,4,490891,1963564,Tienda Física,Audífonos,2,Accesorios,2025,1,1,Grande
+2025-874,102,2025-10-24,5,1,770769,770769,App,Audífonos,2,Accesorios,2025,10,4,Mediana
+2025-875,203,2025-11-22,6,1,502134,502134,Tienda Física,Tablet,1,Tecnología,2025,11,4,Mediana
+2025-876,157,2025-11-20,3,3,179746,539238,App,Teclado,2,Accesorios,2025,11,4,Mediana
+2025-877,326,2025-03-02,1,1,194484,194484,App,Notebook,1,Tecnología,2025,3,1,Pequeña
+2025-878,455,2025-05-07,1,1,325104,325104,Web,Notebook,1,Tecnología,2025,5,2,Mediana
+2025-879,115,2025-05-19,6,2,747371,1494742,Web,Tablet,1,Tecnología,2025,5,2,Grande
+2025-880,449,2025-02-21,5,1,739024,739024,Tienda Física,Audífonos,2,Accesorios,2025,2,1,Mediana
+2025-881,466,2025-04-03,1,2,248366,496732,Web,Notebook,1,Tecnología,2025,4,2,Mediana
+2025-882,410,2025-06-02,5,1,174437,174437,App,Audífonos,2,Accesorios,2025,6,2,Pequeña
+2025-883,342,2025-05-29,5,4,625429,2501716,Web,Audífonos,2,Accesorios,2025,5,2,Grande
+2025-884,118,2025-06-03,5,3,369000,1107000,Tienda Física,Audífonos,2,Accesorios,2025,6,2,Grande
+2025-885,167,2025-02-25,4,1,614429,614429,Web,Monitor,1,Tecnología,2025,2,1,Mediana
+2025-886,149,2025-09-29,6,4,714237,2856948,Web,Tablet,1,Tecnología,2025,9,3,Grande
+2025-887,220,2025-12-19,3,1,20514,20514,App,Teclado,2,Accesorios,2025,12,4,Pequeña
+2025-888,79,2025-05-30,6,4,488409,1953636,App,Tablet,1,Tecnología,2025,5,2,Grande
+2025-889,113,2025-08-06,3,1,336944,336944,Web,Teclado,2,Accesorios,2025,8,3,Mediana
+2025-890,411,2025-11-19,1,4,648103,2592412,Tienda Física,Notebook,1,Tecnología,2025,11,4,Grande
+2025-891,115,2025-07-10,1,2,433471,866942,App,Notebook,1,Tecnología,2025,7,3,Mediana
+2025-892,12,2025-10-23,4,4,448748,1794992,Web,Monitor,1,Tecnología,2025,10,4,Grande
+2025-893,341,2025-07-22,1,3,274019,822057,Web,Notebook,1,Tecnología,2025,7,3,Mediana
+2025-894,121,2025-12-29,2,2,404569,809138,App,Mouse,2,Accesorios,2025,12,4,Mediana
+2025-895,356,2025-01-23,4,3,209542,628626,Tienda Física,Monitor,1,Tecnología,2025,1,1,Mediana
+2025-896,186,2025-01-22,1,1,184469,184469,Web,Notebook,1,Tecnología,2025,1,1,Pequeña
+2025-897,88,2025-12-12,1,1,418654,418654,Tienda Física,Notebook,1,Tecnología,2025,12,4,Mediana
+2025-898,216,2025-09-03,6,1,64213,64213,Tienda Física,Tablet,1,Tecnología,2025,9,3,Pequeña
+2025-899,106,2025-02-05,1,4,149565,598260,App,Notebook,1,Tecnología,2025,2,1,Mediana
+2025-900,204,2025-02-08,6,3,570113,1710339,Tienda Física,Tablet,1,Tecnología,2025,2,1,Grande
+2025-901,139,2025-10-16,4,4,52782,211128,Web,Monitor,1,Tecnología,2025,10,4,Mediana
+2025-902,146,2025-07-20,1,2,474535,949070,Tienda Física,Notebook,1,Tecnología,2025,7,3,Mediana
+2025-903,311,2025-07-07,5,1,415257,415257,App,Audífonos,2,Accesorios,2025,7,3,Mediana
+2025-904,230,2025-11-19,3,3,792533,2377599,Tienda Física,Teclado,2,Accesorios,2025,11,4,Grande
+2025-905,203,2025-05-18,5,4,100715,402860,App,Audífonos,2,Accesorios,2025,5,2,Mediana
+2025-906,303,2025-03-12,1,2,152321,304642,Tienda Física,Notebook,1,Tecnología,2025,3,1,Mediana
+2025-907,402,2025-03-29,2,4,234872,939488,App,Mouse,2,Accesorios,2025,3,1,Mediana
+2025-908,360,2025-06-03,4,2,772922,1545844,Tienda Física,Monitor,1,Tecnología,2025,6,2,Grande
+2025-909,422,2025-03-06,6,2,728980,1457960,App,Tablet,1,Tecnología,2025,3,1,Grande
+2025-910,376,2025-08-01,1,3,177809,533427,Web,Notebook,1,Tecnología,2025,8,3,Mediana
+2025-911,471,2025-10-05,5,4,402515,1610060,App,Audífonos,2,Accesorios,2025,10,4,Grande
+2025-912,129,2025-10-07,6,2,731760,1463520,App,Tablet,1,Tecnología,2025,10,4,Grande
+2025-913,292,2025-12-17,5,3,100135,300405,Tienda Física,Audífonos,2,Accesorios,2025,12,4,Mediana
+2025-914,461,2025-07-13,5,4,525609,2102436,App,Audífonos,2,Accesorios,2025,7,3,Grande
+2025-915,238,2025-06-12,1,1,647514,647514,Tienda Física,Notebook,1,Tecnología,2025,6,2,Mediana
+2025-916,29,2025-02-23,5,1,58825,58825,Tienda Física,Audífonos,2,Accesorios,2025,2,1,Pequeña
+2025-917,42,2025-05-18,4,1,127674,127674,Tienda Física,Monitor,1,Tecnología,2025,5,2,Pequeña
+2025-918,490,2025-02-11,6,4,164030,656120,App,Tablet,1,Tecnología,2025,2,1,Mediana
+2025-919,416,2025-02-25,2,4,425769,1703076,Web,Mouse,2,Accesorios,2025,2,1,Grande
+2025-920,122,2025-06-07,2,2,352864,705728,Tienda Física,Mouse,2,Accesorios,2025,6,2,Mediana
+2025-921,455,2025-01-22,4,3,152728,458184,App,Monitor,1,Tecnología,2025,1,1,Mediana
+2025-922,110,2025-02-22,1,1,333923,333923,Tienda Física,Notebook,1,Tecnología,2025,2,1,Mediana
+2025-923,356,2025-04-15,4,4,551228,2204912,App,Monitor,1,Tecnología,2025,4,2,Grande
+2025-924,146,2025-06-16,4,2,419898,839796,Web,Monitor,1,Tecnología,2025,6,2,Mediana
+2025-925,134,2025-08-27,3,4,170381,681524,Tienda Física,Teclado,2,Accesorios,2025,8,3,Mediana
+2025-926,464,2025-02-06,5,4,227984,911936,Tienda Física,Audífonos,2,Accesorios,2025,2,1,Mediana
+2025-927,211,2025-12-03,6,1,13196,13196,App,Tablet,1,Tecnología,2025,12,4,Pequeña
+2025-928,214,2025-06-10,6,4,445132,1780528,App,Tablet,1,Tecnología,2025,6,2,Grande
+2025-929,286,2025-07-21,4,4,126074,504296,Web,Monitor,1,Tecnología,2025,7,3,Mediana
+2025-930,132,2025-09-10,5,1,634588,634588,Tienda Física,Audífonos,2,Accesorios,2025,9,3,Mediana
+2025-931,344,2025-07-20,2,4,402761,1611044,Tienda Física,Mouse,2,Accesorios,2025,7,3,Grande
+2025-932,487,2025-02-11,5,2,780880,1561760,Web,Audífonos,2,Accesorios,2025,2,1,Grande
+2025-933,393,2025-11-21,4,3,681502,2044506,Web,Monitor,1,Tecnología,2025,11,4,Grande
+2025-934,406,2025-02-25,1,3,146262,438786,Tienda Física,Notebook,1,Tecnología,2025,2,1,Mediana
+2025-935,236,2025-06-11,1,3,300693,902079,Tienda Física,Notebook,1,Tecnología,2025,6,2,Mediana
+2025-936,9,2025-08-13,4,1,790080,790080,Tienda Física,Monitor,1,Tecnología,2025,8,3,Mediana
+2025-937,188,2025-06-18,6,1,140334,140334,App,Tablet,1,Tecnología,2025,6,2,Pequeña
+2025-938,349,2025-09-02,2,2,421811,843622,Tienda Física,Mouse,2,Accesorios,2025,9,3,Mediana
+2025-939,8,2025-03-26,2,4,214335,857340,App,Mouse,2,Accesorios,2025,3,1,Mediana
+2025-940,208,2025-11-03,6,4,627423,2509692,App,Tablet,1,Tecnología,2025,11,4,Grande
+2025-941,426,2025-01-10,5,1,105057,105057,App,Audífonos,2,Accesorios,2025,1,1,Pequeña
+2025-942,167,2025-03-06,2,1,333860,333860,Tienda Física,Mouse,2,Accesorios,2025,3,1,Mediana
+2025-943,388,2025-05-18,4,1,556707,556707,Tienda Física,Monitor,1,Tecnología,2025,5,2,Mediana
+2025-944,105,2025-02-02,2,4,284541,1138164,App,Mouse,2,Accesorios,2025,2,1,Grande
+2025-945,231,2025-12-06,5,2,169413,338826,Web,Audífonos,2,Accesorios,2025,12,4,Mediana
+2025-946,333,2025-09-28,1,1,448863,448863,Web,Notebook,1,Tecnología,2025,9,3,Mediana
+2025-947,28,2025-12-20,5,3,484768,1454304,Web,Audífonos,2,Accesorios,2025,12,4,Grande
+2025-948,398,2025-04-09,3,4,659001,2636004,Web,Teclado,2,Accesorios,2025,4,2,Grande
+2025-949,123,2025-01-10,1,3,647384,1942152,Web,Notebook,1,Tecnología,2025,1,1,Grande
+2025-950,205,2025-07-17,3,2,307668,615336,App,Teclado,2,Accesorios,2025,7,3,Mediana
+2025-951,479,2025-02-17,1,3,586531,1759593,Web,Notebook,1,Tecnología,2025,2,1,Grande
+2025-952,130,2025-02-23,5,1,311411,311411,App,Audífonos,2,Accesorios,2025,2,1,Mediana
+2025-953,281,2025-08-03,3,1,445157,445157,App,Teclado,2,Accesorios,2025,8,3,Mediana
+2025-954,290,2025-11-22,3,2,619557,1239114,App,Teclado,2,Accesorios,2025,11,4,Grande
+2025-955,130,2025-04-16,6,2,101679,203358,Web,Tablet,1,Tecnología,2025,4,2,Mediana
+2025-956,245,2025-02-22,2,1,754974,754974,App,Mouse,2,Accesorios,2025,2,1,Mediana
+2025-957,46,2025-06-15,5,2,659362,1318724,Tienda Física,Audífonos,2,Accesorios,2025,6,2,Grande
+2025-958,139,2025-10-04,5,3,29731,89193,App,Audífonos,2,Accesorios,2025,10,4,Pequeña
+2025-959,313,2025-06-03,2,2,543857,1087714,App,Mouse,2,Accesorios,2025,6,2,Grande
+2025-960,201,2025-02-11,6,3,218542,655626,Tienda Física,Tablet,1,Tecnología,2025,2,1,Mediana
+2025-961,68,2025-11-30,5,1,566357,566357,App,Audífonos,2,Accesorios,2025,11,4,Mediana
+2025-962,111,2025-06-28,1,3,184588,553764,Web,Notebook,1,Tecnología,2025,6,2,Mediana
+2025-963,326,2025-06-02,5,3,554719,1664157,Tienda Física,Audífonos,2,Accesorios,2025,6,2,Grande
+2025-964,128,2025-12-11,2,4,310821,1243284,Tienda Física,Mouse,2,Accesorios,2025,12,4,Grande
+2025-965,159,2025-01-23,2,2,584120,1168240,Tienda Física,Mouse,2,Accesorios,2025,1,1,Grande
+2025-966,13,2025-05-24,1,2,19921,39842,Web,Notebook,1,Tecnología,2025,5,2,Pequeña
+2025-967,156,2025-10-14,5,3,84408,253224,Web,Audífonos,2,Accesorios,2025,10,4,Mediana
+2025-968,416,2025-10-24,6,2,14922,29844,App,Tablet,1,Tecnología,2025,10,4,Pequeña
+2025-969,230,2025-06-05,6,4,327817,1311268,Web,Tablet,1,Tecnología,2025,6,2,Grande
+2025-970,105,2025-05-12,1,1,747609,747609,Tienda Física,Notebook,1,Tecnología,2025,5,2,Mediana
+2025-971,382,2025-09-27,2,3,399962,1199886,App,Mouse,2,Accesorios,2025,9,3,Grande
+2025-972,396,2025-09-10,5,1,773210,773210,Web,Audífonos,2,Accesorios,2025,9,3,Mediana
+2025-973,451,2025-08-27,5,2,794403,1588806,App,Audífonos,2,Accesorios,2025,8,3,Grande
+2025-974,418,2025-11-10,1,2,283438,566876,App,Notebook,1,Tecnología,2025,11,4,Mediana
+2025-975,186,2025-09-10,2,2,627752,1255504,Tienda Física,Mouse,2,Accesorios,2025,9,3,Grande
+2025-976,200,2025-01-03,4,4,264174,1056696,Tienda Física,Monitor,1,Tecnología,2025,1,1,Grande
+2025-977,236,2025-05-22,6,1,686067,686067,Tienda Física,Tablet,1,Tecnología,2025,5,2,Mediana
+2025-978,9,2025-06-14,6,2,246436,492872,Tienda Física,Tablet,1,Tecnología,2025,6,2,Mediana
+2025-979,276,2025-04-20,3,1,521662,521662,Tienda Física,Teclado,2,Accesorios,2025,4,2,Mediana
+2025-980,436,2025-12-24,4,3,497335,1492005,Tienda Física,Monitor,1,Tecnología,2025,12,4,Grande
+2025-981,94,2025-12-13,4,4,544255,2177020,Web,Monitor,1,Tecnología,2025,12,4,Grande
+2025-982,436,2025-05-19,4,4,328275,1313100,Web,Monitor,1,Tecnología,2025,5,2,Grande
+2025-983,381,2025-03-18,1,4,239192,956768,App,Notebook,1,Tecnología,2025,3,1,Mediana
+2025-984,102,2025-11-10,2,1,508214,508214,Tienda Física,Mouse,2,Accesorios,2025,11,4,Mediana
+2025-985,88,2025-03-18,3,1,324444,324444,App,Teclado,2,Accesorios,2025,3,1,Mediana
+2025-986,28,2025-07-24,5,2,636441,1272882,App,Audífonos,2,Accesorios,2025,7,3,Grande
+2025-987,201,2025-03-25,1,2,682636,1365272,Tienda Física,Notebook,1,Tecnología,2025,3,1,Grande
+2025-988,352,2025-06-07,1,1,675751,675751,App,Notebook,1,Tecnología,2025,6,2,Mediana
+2025-989,141,2025-05-24,6,3,448895,1346685,App,Tablet,1,Tecnología,2025,5,2,Grande
+2025-990,209,2025-01-03,3,4,394755,1579020,Web,Teclado,2,Accesorios,2025,1,1,Grande
+2025-991,268,2025-02-28,4,4,664669,2658676,Web,Monitor,1,Tecnología,2025,2,1,Grande
+2025-992,177,2025-11-03,6,3,665920,1997760,App,Tablet,1,Tecnología,2025,11,4,Grande
+2025-993,289,2025-12-04,6,3,97566,292698,Tienda Física,Tablet,1,Tecnología,2025,12,4,Mediana
+2025-994,92,2025-04-04,6,3,118237,354711,Web,Tablet,1,Tecnología,2025,4,2,Mediana
+2025-995,301,2025-09-28,6,3,496598,1489794,App,Tablet,1,Tecnología,2025,9,3,Grande
+2025-996,46,2025-09-06,6,2,63175,126350,App,Tablet,1,Tecnología,2025,9,3,Pequeña
+2025-997,428,2025-07-09,3,1,598510,598510,Web,Teclado,2,Accesorios,2025,7,3,Mediana
+2025-998,52,2025-03-07,6,4,712290,2849160,App,Tablet,1,Tecnología,2025,3,1,Grande
+2025-999,20,2025-02-15,1,4,663080,2652320,Web,Notebook,1,Tecnología,2025,2,1,Grande
+2025-1000,354,2025-03-02,1,3,29510,88530,Web,Notebook,1,Tecnología,2025,3,1,Pequeña
+2026-001,131,2026-02-08,1,2,79672,159344,App,Notebook,1,Tecnología,2026,2,1,Pequeña
+2026-002,130,2026-01-09,3,1,218271,218271,Web,Teclado,2,Accesorios,2026,1,1,Mediana
+2026-003,412,2026-02-21,3,3,607823,1823469,Web,Teclado,2,Accesorios,2026,2,1,Grande
+2026-004,38,2026-02-20,4,1,709793,709793,Web,Monitor,1,Tecnología,2026,2,1,Mediana
+2026-005,141,2026-02-13,5,3,138938,416814,App,Audífonos,2,Accesorios,2026,2,1,Mediana
+2026-006,196,2026-02-20,1,4,562355,2249420,Web,Notebook,1,Tecnología,2026,2,1,Grande
+2026-007,10,2026-02-10,4,4,642829,2571316,Web,Monitor,1,Tecnología,2026,2,1,Grande
+2026-008,364,2026-01-30,3,4,329889,1319556,Web,Teclado,2,Accesorios,2026,1,1,Grande
+2026-009,63,2026-01-21,4,1,165915,165915,Web,Monitor,1,Tecnología,2026,1,1,Pequeña
+2026-010,11,2026-01-25,1,2,671809,1343618,Tienda Física,Notebook,1,Tecnología,2026,1,1,Grande
+2026-011,116,2026-01-17,1,2,478224,956448,Web,Notebook,1,Tecnología,2026,1,1,Mediana
+2026-012,443,2026-01-19,5,1,795890,795890,Tienda Física,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-013,9,2026-01-16,6,2,516289,1032578,Web,Tablet,1,Tecnología,2026,1,1,Grande
+2026-014,386,2026-02-27,6,2,730217,1460434,Web,Tablet,1,Tecnología,2026,2,1,Grande
+2026-015,400,2026-01-16,2,3,404411,1213233,App,Mouse,2,Accesorios,2026,1,1,Grande
+2026-016,221,2026-01-02,3,4,4544544,18178176,Tienda Física,Teclado,2,Accesorios,2026,1,1,Grande
+2026-017,74,2026-01-08,3,3,256256,768768,Tienda Física,Teclado,2,Accesorios,2026,1,1,Mediana
+2026-018,68,2026-02-11,6,3,75908,227724,Web,Tablet,1,Tecnología,2026,2,1,Mediana
+2026-019,321,2026-02-01,4,4,96590,386360,Web,Monitor,1,Tecnología,2026,2,1,Mediana
+2026-020,369,2026-02-01,2,1,697318,697318,Tienda Física,Mouse,2,Accesorios,2026,2,1,Mediana
+2026-021,269,2026-01-19,4,2,3449299,6898598,Web,Monitor,1,Tecnología,2026,1,1,Grande
+2026-022,88,2026-01-15,3,3,188901,566703,App,Teclado,2,Accesorios,2026,1,1,Mediana
+2026-023,297,2026-02-21,3,4,235864,943456,Web,Teclado,2,Accesorios,2026,2,1,Mediana
+2026-024,17,2026-01-29,4,2,189428,378856,App,Monitor,1,Tecnología,2026,1,1,Mediana
+2026-025,431,2026-01-06,6,3,441856,1325568,Web,Tablet,1,Tecnología,2026,1,1,Grande
+2026-026,462,2026-02-23,4,3,527961,1583883,Tienda Física,Monitor,1,Tecnología,2026,2,1,Grande
+2026-027,31,2026-01-10,2,1,508953,508953,Web,Mouse,2,Accesorios,2026,1,1,Mediana
+2026-028,295,2026-02-24,4,2,571700,1143400,Tienda Física,Monitor,1,Tecnología,2026,2,1,Grande
+2026-029,242,2026-02-21,3,3,32228,96684,Web,Teclado,2,Accesorios,2026,2,1,Pequeña
+2026-030,56,2026-02-08,4,4,680088,2720352,App,Monitor,1,Tecnología,2026,2,1,Grande
+2026-031,381,2026-02-09,4,3,763772,2291316,App,Monitor,1,Tecnología,2026,2,1,Grande
+2026-032,408,2026-01-30,3,2,688105,1376210,Web,Teclado,2,Accesorios,2026,1,1,Grande
+2026-033,16,2026-02-19,6,1,197965,197965,Tienda Física,Tablet,1,Tecnología,2026,2,1,Pequeña
+2026-034,466,2026-01-06,2,2,744791,1489582,App,Mouse,2,Accesorios,2026,1,1,Grande
+2026-035,359,2026-02-26,6,2,156154,312308,Web,Tablet,1,Tecnología,2026,2,1,Mediana
+2026-036,265,2026-01-03,1,1,358857,358857,Tienda Física,Notebook,1,Tecnología,2026,1,1,Mediana
+2026-037,481,2026-02-21,5,4,415854,1663416,App,Audífonos,2,Accesorios,2026,2,1,Grande
+2026-038,480,2026-02-25,1,3,531998,1595994,App,Notebook,1,Tecnología,2026,2,1,Grande
+2026-039,365,2026-02-21,5,1,197167,197167,Tienda Física,Audífonos,2,Accesorios,2026,2,1,Pequeña
+2026-040,225,2026-02-23,4,3,53988,161964,App,Monitor,1,Tecnología,2026,2,1,Pequeña
+2026-041,192,2026-01-15,6,3,67450,202350,App,Tablet,1,Tecnología,2026,1,1,Mediana
+2026-042,244,2026-02-03,1,1,22755,22755,App,Notebook,1,Tecnología,2026,2,1,Pequeña
+2026-043,26,2026-02-24,2,4,245132,980528,Tienda Física,Mouse,2,Accesorios,2026,2,1,Mediana
+2026-044,73,2026-01-06,3,1,562631,562631,App,Teclado,2,Accesorios,2026,1,1,Mediana
+2026-045,348,2026-01-13,2,4,769036,3076144,Tienda Física,Mouse,2,Accesorios,2026,1,1,Grande
+2026-046,76,2026-01-27,3,3,534436,1603308,App,Teclado,2,Accesorios,2026,1,1,Grande
+2026-047,211,2026-02-25,2,1,70653,70653,App,Mouse,2,Accesorios,2026,2,1,Pequeña
+2026-048,492,2026-02-13,4,2,19795,39590,Web,Monitor,1,Tecnología,2026,2,1,Pequeña
+2026-049,61,2026-01-10,3,1,2068682,2068682,Web,Teclado,2,Accesorios,2026,1,1,Grande
+2026-050,479,2026-02-26,3,3,21009,63027,Web,Teclado,2,Accesorios,2026,2,1,Pequeña
+2026-051,433,2026-01-27,6,2,336754,673508,Web,Tablet,1,Tecnología,2026,1,1,Mediana
+2026-052,146,2026-02-17,6,1,621516,621516,Tienda Física,Tablet,1,Tecnología,2026,2,1,Mediana
+2026-053,387,2026-01-15,4,1,198210,198210,App,Monitor,1,Tecnología,2026,1,1,Pequeña
+2026-054,114,2026-02-08,3,4,90857,363428,App,Teclado,2,Accesorios,2026,2,1,Mediana
+2026-055,102,2026-01-19,6,1,652216,652216,App,Tablet,1,Tecnología,2026,1,1,Mediana
+2026-056,261,2026-02-27,3,3,728515,2185545,Tienda Física,Teclado,2,Accesorios,2026,2,1,Grande
+2026-057,472,2026-02-17,2,1,400166,400166,Web,Mouse,2,Accesorios,2026,2,1,Mediana
+2026-058,296,2026-02-05,6,2,616888,1233776,Tienda Física,Tablet,1,Tecnología,2026,2,1,Grande
+2026-059,203,2026-02-21,5,1,394784,394784,Tienda Física,Audífonos,2,Accesorios,2026,2,1,Mediana
+2026-060,475,2026-01-13,1,3,382333,1146999,Tienda Física,Notebook,1,Tecnología,2026,1,1,Grande
+2026-061,380,2026-01-28,5,2,291941,583882,Web,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-062,73,2026-02-15,2,4,613760,2455040,App,Mouse,2,Accesorios,2026,2,1,Grande
+2026-063,43,2026-01-10,1,1,743307,743307,Web,Notebook,1,Tecnología,2026,1,1,Mediana
+2026-064,187,2026-01-03,4,4,17928,71712,App,Monitor,1,Tecnología,2026,1,1,Pequeña
+2026-065,439,2026-01-15,6,2,89064,178128,App,Tablet,1,Tecnología,2026,1,1,Pequeña
+2026-066,24,2026-02-05,6,4,4764630,19058520,App,Tablet,1,Tecnología,2026,2,1,Grande
+2026-067,280,2026-01-27,3,1,414189,414189,Tienda Física,Teclado,2,Accesorios,2026,1,1,Mediana
+2026-068,447,2026-01-04,2,1,687751,687751,Web,Mouse,2,Accesorios,2026,1,1,Mediana
+2026-069,249,2026-02-15,1,3,647233,1941699,App,Notebook,1,Tecnología,2026,2,1,Grande
+2026-070,395,2026-01-17,2,3,404813,1214439,Tienda Física,Mouse,2,Accesorios,2026,1,1,Grande
+2026-071,218,2026-01-11,5,1,115736,115736,Tienda Física,Audífonos,2,Accesorios,2026,1,1,Pequeña
+2026-072,70,2026-01-13,1,2,446421,892842,App,Notebook,1,Tecnología,2026,1,1,Mediana
+2026-073,56,2026-01-27,6,1,368062,368062,App,Tablet,1,Tecnología,2026,1,1,Mediana
+2026-074,462,2026-02-05,2,1,768201,768201,App,Mouse,2,Accesorios,2026,2,1,Mediana
+2026-075,64,2026-01-17,2,4,47361,189444,App,Mouse,2,Accesorios,2026,1,1,Pequeña
+2026-076,405,2026-01-01,4,1,370704,370704,Tienda Física,Monitor,1,Tecnología,2026,1,1,Mediana
+2026-077,289,2026-01-13,6,1,481449,481449,Tienda Física,Tablet,1,Tecnología,2026,1,1,Mediana
+2026-078,476,2026-02-10,1,1,268430,268430,App,Notebook,1,Tecnología,2026,2,1,Mediana
+2026-079,57,2026-02-18,1,4,267351,1069404,Tienda Física,Notebook,1,Tecnología,2026,2,1,Grande
+2026-080,56,2026-01-06,1,4,495375,1981500,Web,Notebook,1,Tecnología,2026,1,1,Grande
+2026-081,449,2026-02-11,1,1,305583,305583,App,Notebook,1,Tecnología,2026,2,1,Mediana
+2026-082,131,2026-02-12,1,3,710731,2132193,Web,Notebook,1,Tecnología,2026,2,1,Grande
+2026-083,434,2026-01-17,2,1,569031,569031,App,Mouse,2,Accesorios,2026,1,1,Mediana
+2026-084,420,2026-01-12,5,1,216384,216384,App,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-085,131,2026-01-04,3,1,173377,173377,Web,Teclado,2,Accesorios,2026,1,1,Pequeña
+2026-086,178,2026-01-11,5,2,260703,521406,Tienda Física,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-087,148,2026-02-23,6,4,403852,1615408,App,Tablet,1,Tecnología,2026,2,1,Grande
+2026-088,226,2026-01-12,1,4,654821,2619284,Web,Notebook,1,Tecnología,2026,1,1,Grande
+2026-089,382,2026-01-30,1,4,353822,1415288,Tienda Física,Notebook,1,Tecnología,2026,1,1,Grande
+2026-090,27,2026-01-31,6,2,498121,996242,Tienda Física,Tablet,1,Tecnología,2026,1,1,Mediana
+2026-091,12,2026-02-01,6,3,679727,2039181,Web,Tablet,1,Tecnología,2026,2,1,Grande
+2026-092,237,2026-02-15,3,1,620108,620108,Web,Teclado,2,Accesorios,2026,2,1,Mediana
+2026-093,458,2026-01-25,4,3,796166,2388498,Tienda Física,Monitor,1,Tecnología,2026,1,1,Grande
+2026-094,203,2026-02-23,4,4,464581,1858324,Tienda Física,Monitor,1,Tecnología,2026,2,1,Grande
+2026-095,383,2026-01-30,1,1,58458,58458,Tienda Física,Notebook,1,Tecnología,2026,1,1,Pequeña
+2026-096,361,2026-02-17,6,2,437562,875124,Tienda Física,Tablet,1,Tecnología,2026,2,1,Mediana
+2026-097,283,2026-01-04,5,2,394546,789092,Web,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-098,410,2026-02-27,1,4,341922,1367688,Web,Notebook,1,Tecnología,2026,2,1,Grande
+2026-099,173,2026-02-27,2,2,782470,1564940,Tienda Física,Mouse,2,Accesorios,2026,2,1,Grande
+2026-100,156,2026-02-12,1,4,369267,1477068,Web,Notebook,1,Tecnología,2026,2,1,Grande
+2026-101,322,2026-01-21,1,4,699317,2797268,Web,Notebook,1,Tecnología,2026,1,1,Grande
+2026-102,137,2026-01-16,5,3,494540,1483620,Tienda Física,Audífonos,2,Accesorios,2026,1,1,Grande
+2026-103,2,2026-02-11,2,4,572602,2290408,Web,Mouse,2,Accesorios,2026,2,1,Grande
+2026-104,313,2026-01-03,1,3,156903,470709,App,Notebook,1,Tecnología,2026,1,1,Mediana
+2026-105,141,2026-01-19,3,3,3512185,10536555,Web,Teclado,2,Accesorios,2026,1,1,Grande
+2026-106,54,2026-01-23,6,2,143692,287384,App,Tablet,1,Tecnología,2026,1,1,Mediana
+2026-107,178,2026-02-02,2,3,744750,2234250,App,Mouse,2,Accesorios,2026,2,1,Grande
+2026-108,80,2026-01-31,3,1,528534,528534,Web,Teclado,2,Accesorios,2026,1,1,Mediana
+2026-109,176,2026-01-28,6,2,779741,1559482,Web,Tablet,1,Tecnología,2026,1,1,Grande
+2026-110,107,2026-01-26,3,1,71562,71562,App,Teclado,2,Accesorios,2026,1,1,Pequeña
+2026-111,107,2026-01-17,1,1,744769,744769,Tienda Física,Notebook,1,Tecnología,2026,1,1,Mediana
+2026-112,268,2026-01-05,6,2,139789,279578,Tienda Física,Tablet,1,Tecnología,2026,1,1,Mediana
+2026-113,484,2026-02-27,3,4,376338,1505352,Tienda Física,Teclado,2,Accesorios,2026,2,1,Grande
+2026-114,57,2026-01-04,1,3,494441,1483323,Tienda Física,Notebook,1,Tecnología,2026,1,1,Grande
+2026-115,45,2026-01-19,4,1,799012,799012,Web,Monitor,1,Tecnología,2026,1,1,Mediana
+2026-116,52,2026-01-03,2,3,325315,975945,Web,Mouse,2,Accesorios,2026,1,1,Mediana
+2026-117,113,2026-02-09,4,4,43545,174180,Tienda Física,Monitor,1,Tecnología,2026,2,1,Pequeña
+2026-118,325,2026-02-22,4,2,270123,540246,Tienda Física,Monitor,1,Tecnología,2026,2,1,Mediana
+2026-119,181,2026-02-13,4,3,156192,468576,Tienda Física,Monitor,1,Tecnología,2026,2,1,Mediana
+2026-120,74,2026-01-18,2,4,486182,1944728,Web,Mouse,2,Accesorios,2026,1,1,Grande
+2026-121,291,2026-02-13,5,2,727278,1454556,Web,Audífonos,2,Accesorios,2026,2,1,Grande
+2026-122,131,2026-02-02,3,1,321896,321896,Web,Teclado,2,Accesorios,2026,2,1,Mediana
+2026-123,477,2026-01-14,2,2,106496,212992,App,Mouse,2,Accesorios,2026,1,1,Mediana
+2026-124,219,2026-01-03,1,2,511935,1023870,Tienda Física,Notebook,1,Tecnología,2026,1,1,Grande
+2026-125,341,2026-02-12,1,3,345076,1035228,Tienda Física,Notebook,1,Tecnología,2026,2,1,Grande
+2026-126,213,2026-02-04,2,1,670601,670601,App,Mouse,2,Accesorios,2026,2,1,Mediana
+2026-127,88,2026-02-24,3,1,548606,548606,Tienda Física,Teclado,2,Accesorios,2026,2,1,Mediana
+2026-128,449,2026-01-19,4,1,759045,759045,App,Monitor,1,Tecnología,2026,1,1,Mediana
+2026-129,433,2026-02-26,6,2,523904,1047808,Tienda Física,Tablet,1,Tecnología,2026,2,1,Grande
+2026-130,142,2026-01-13,4,4,251504,1006016,App,Monitor,1,Tecnología,2026,1,1,Grande
+2026-131,497,2026-02-08,4,3,676469,2029407,Web,Monitor,1,Tecnología,2026,2,1,Grande
+2026-132,161,2026-01-31,5,1,155093,155093,Tienda Física,Audífonos,2,Accesorios,2026,1,1,Pequeña
+2026-133,473,2026-02-21,6,1,426460,426460,App,Tablet,1,Tecnología,2026,2,1,Mediana
+2026-134,472,2026-02-19,2,1,538058,538058,App,Mouse,2,Accesorios,2026,2,1,Mediana
+2026-135,433,2026-02-01,4,3,630140,1890420,Web,Monitor,1,Tecnología,2026,2,1,Grande
+2026-136,225,2026-01-05,2,1,704519,704519,Tienda Física,Mouse,2,Accesorios,2026,1,1,Mediana
+2026-137,61,2026-01-22,4,3,438734,1316202,Web,Monitor,1,Tecnología,2026,1,1,Grande
+2026-138,189,2026-02-01,6,4,136865,547460,Web,Tablet,1,Tecnología,2026,2,1,Mediana
+2026-139,263,2026-01-28,1,1,596864,596864,Web,Notebook,1,Tecnología,2026,1,1,Mediana
+2026-140,456,2026-01-05,4,4,567985,2271940,Web,Monitor,1,Tecnología,2026,1,1,Grande
+2026-141,121,2026-02-27,5,2,773361,1546722,App,Audífonos,2,Accesorios,2026,2,1,Grande
+2026-142,385,2026-01-26,4,3,172357,517071,Web,Monitor,1,Tecnología,2026,1,1,Mediana
+2026-143,289,2026-02-14,4,4,535204,2140816,Tienda Física,Monitor,1,Tecnología,2026,2,1,Grande
+2026-144,248,2026-01-31,2,3,131937,395811,App,Mouse,2,Accesorios,2026,1,1,Mediana
+2026-145,12,2026-02-20,1,2,636683,1273366,App,Notebook,1,Tecnología,2026,2,1,Grande
+2026-146,137,2026-01-24,2,3,559391,1678173,App,Mouse,2,Accesorios,2026,1,1,Grande
+2026-147,334,2026-02-02,5,3,35825,107475,App,Audífonos,2,Accesorios,2026,2,1,Pequeña
+2026-148,408,2026-01-07,1,1,76433,76433,Tienda Física,Notebook,1,Tecnología,2026,1,1,Pequeña
+2026-149,21,2026-02-01,3,1,456880,456880,Web,Teclado,2,Accesorios,2026,2,1,Mediana
+2026-150,167,2026-02-06,4,4,494137,1976548,Web,Monitor,1,Tecnología,2026,2,1,Grande
+2026-151,281,2026-01-19,1,1,789521,789521,App,Notebook,1,Tecnología,2026,1,1,Mediana
+2026-152,20,2026-01-29,2,1,360697,360697,App,Mouse,2,Accesorios,2026,1,1,Mediana
+2026-153,17,2026-01-04,4,1,631029,631029,App,Monitor,1,Tecnología,2026,1,1,Mediana
+2026-154,84,2026-01-18,3,3,512066,1536198,App,Teclado,2,Accesorios,2026,1,1,Grande
+2026-155,440,2026-01-17,4,4,57367,229468,Tienda Física,Monitor,1,Tecnología,2026,1,1,Mediana
+2026-156,421,2026-01-27,5,1,678640,678640,Web,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-157,4,2026-02-01,6,4,254697,1018788,App,Tablet,1,Tecnología,2026,2,1,Grande
+2026-158,355,2026-01-31,5,4,685616,2742464,Tienda Física,Audífonos,2,Accesorios,2026,1,1,Grande
+2026-159,381,2026-02-07,4,3,609608,1828824,App,Monitor,1,Tecnología,2026,2,1,Grande
+2026-160,482,2026-02-25,3,4,283363,1133452,App,Teclado,2,Accesorios,2026,2,1,Grande
+2026-161,33,2026-01-04,2,4,241615,966460,Tienda Física,Mouse,2,Accesorios,2026,1,1,Mediana
+2026-162,348,2026-02-21,5,3,607839,1823517,Web,Audífonos,2,Accesorios,2026,2,1,Grande
+2026-163,496,2026-01-09,3,1,572453,572453,Web,Teclado,2,Accesorios,2026,1,1,Mediana
+2026-164,457,2026-02-14,3,1,358152,358152,App,Teclado,2,Accesorios,2026,2,1,Mediana
+2026-165,125,2026-01-06,3,1,79835,79835,Web,Teclado,2,Accesorios,2026,1,1,Pequeña
+2026-166,439,2026-01-18,5,3,329055,987165,Web,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-167,338,2026-01-08,1,3,584901,1754703,Tienda Física,Notebook,1,Tecnología,2026,1,1,Grande
+2026-168,25,2026-02-09,2,1,576966,576966,Tienda Física,Mouse,2,Accesorios,2026,2,1,Mediana
+2026-169,338,2026-02-02,2,1,197486,197486,Tienda Física,Mouse,2,Accesorios,2026,2,1,Pequeña
+2026-170,146,2026-01-16,5,1,694815,694815,Tienda Física,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-171,38,2026-02-17,1,3,733380,2200140,Web,Notebook,1,Tecnología,2026,2,1,Grande
+2026-172,160,2026-01-16,6,2,706314,1412628,Web,Tablet,1,Tecnología,2026,1,1,Grande
+2026-173,144,2026-01-27,4,1,54772,54772,Web,Monitor,1,Tecnología,2026,1,1,Pequeña
+2026-174,269,2026-01-03,5,4,49080,196320,Tienda Física,Audífonos,2,Accesorios,2026,1,1,Pequeña
+2026-175,33,2026-02-13,1,2,326855,653710,Web,Notebook,1,Tecnología,2026,2,1,Mediana
+2026-176,489,2026-02-08,2,2,545580,1091160,Tienda Física,Mouse,2,Accesorios,2026,2,1,Grande
+2026-177,100,2026-02-15,5,1,618481,618481,Tienda Física,Audífonos,2,Accesorios,2026,2,1,Mediana
+2026-178,197,2026-02-08,6,3,635686,1907058,App,Tablet,1,Tecnología,2026,2,1,Grande
+2026-179,242,2026-01-27,5,1,787110,787110,App,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-180,138,2026-02-10,1,1,742943,742943,App,Notebook,1,Tecnología,2026,2,1,Mediana
+2026-181,183,2026-01-17,5,1,467301,467301,Tienda Física,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-182,374,2026-02-21,4,1,50136,50136,App,Monitor,1,Tecnología,2026,2,1,Pequeña
+2026-183,480,2026-01-22,2,1,391050,391050,Tienda Física,Mouse,2,Accesorios,2026,1,1,Mediana
+2026-184,333,2026-01-12,3,1,607456,607456,Web,Teclado,2,Accesorios,2026,1,1,Mediana
+2026-185,461,2026-01-07,5,1,370701,370701,Tienda Física,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-186,216,2026-01-30,5,1,500576,500576,Web,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-187,262,2026-01-02,1,3,776164,2328492,App,Notebook,1,Tecnología,2026,1,1,Grande
+2026-188,400,2026-02-14,5,3,226351,679053,Tienda Física,Audífonos,2,Accesorios,2026,2,1,Mediana
+2026-189,110,2026-02-05,3,2,232071,464142,App,Teclado,2,Accesorios,2026,2,1,Mediana
+2026-190,10,2026-01-13,1,1,371732,371732,Web,Notebook,1,Tecnología,2026,1,1,Mediana
+2026-191,471,2026-02-05,3,3,398550,1195650,Tienda Física,Teclado,2,Accesorios,2026,2,1,Grande
+2026-192,15,2026-01-18,3,1,108662,108662,Tienda Física,Teclado,2,Accesorios,2026,1,1,Pequeña
+2026-193,427,2026-02-09,1,4,383221,1532884,Web,Notebook,1,Tecnología,2026,2,1,Grande
+2026-194,413,2026-01-31,2,4,17032,68128,Tienda Física,Mouse,2,Accesorios,2026,1,1,Pequeña
+2026-195,259,2026-02-10,4,3,589552,1768656,Tienda Física,Monitor,1,Tecnología,2026,2,1,Grande
+2026-196,115,2026-02-05,5,2,444895,889790,Web,Audífonos,2,Accesorios,2026,2,1,Mediana
+2026-197,84,2026-02-06,5,1,575764,575764,App,Audífonos,2,Accesorios,2026,2,1,Mediana
+2026-198,91,2026-02-08,6,4,390355,1561420,Tienda Física,Tablet,1,Tecnología,2026,2,1,Grande
+2026-199,175,2026-01-19,6,4,126189,504756,Tienda Física,Tablet,1,Tecnología,2026,1,1,Mediana
+2026-200,223,2026-01-14,1,1,133980,133980,Tienda Física,Notebook,1,Tecnología,2026,1,1,Pequeña
+2026-201,316,2026-02-17,6,2,345689,691378,Tienda Física,Tablet,1,Tecnología,2026,2,1,Mediana
+2026-202,165,2026-02-14,3,2,229073,458146,Web,Teclado,2,Accesorios,2026,2,1,Mediana
+2026-203,333,2026-01-19,3,2,678795,1357590,Web,Teclado,2,Accesorios,2026,1,1,Grande
+2026-204,296,2026-02-09,6,4,495825,1983300,App,Tablet,1,Tecnología,2026,2,1,Grande
+2026-205,48,2026-02-20,3,1,375750,375750,Tienda Física,Teclado,2,Accesorios,2026,2,1,Mediana
+2026-206,188,2026-01-08,6,4,532058,2128232,Web,Tablet,1,Tecnología,2026,1,1,Grande
+2026-207,346,2026-01-06,2,4,414062,1656248,Web,Mouse,2,Accesorios,2026,1,1,Grande
+2026-208,469,2026-01-28,2,3,745634,2236902,App,Mouse,2,Accesorios,2026,1,1,Grande
+2026-209,24,2026-01-26,4,1,731975,731975,Tienda Física,Monitor,1,Tecnología,2026,1,1,Mediana
+2026-210,120,2026-01-02,3,4,290488,1161952,Web,Teclado,2,Accesorios,2026,1,1,Grande
+2026-211,372,2026-02-11,4,1,654673,654673,Web,Monitor,1,Tecnología,2026,2,1,Mediana
+2026-212,420,2026-02-05,1,4,565656,2262624,Web,Notebook,1,Tecnología,2026,2,1,Grande
+2026-213,255,2026-02-11,4,2,593072,1186144,Web,Monitor,1,Tecnología,2026,2,1,Grande
+2026-214,174,2026-01-18,6,1,549068,549068,App,Tablet,1,Tecnología,2026,1,1,Mediana
+2026-215,338,2026-02-17,4,4,338206,1352824,Web,Monitor,1,Tecnología,2026,2,1,Grande
+2026-216,119,2026-01-17,3,4,684502,2738008,App,Teclado,2,Accesorios,2026,1,1,Grande
+2026-217,288,2026-02-26,6,3,303362,910086,Web,Tablet,1,Tecnología,2026,2,1,Mediana
+2026-218,303,2026-01-22,6,2,119084,238168,Web,Tablet,1,Tecnología,2026,1,1,Mediana
+2026-219,285,2026-02-24,5,2,310706,621412,App,Audífonos,2,Accesorios,2026,2,1,Mediana
+2026-220,467,2026-02-04,5,3,386749,1160247,Web,Audífonos,2,Accesorios,2026,2,1,Grande
+2026-221,141,2026-01-08,2,2,645589,1291178,Web,Mouse,2,Accesorios,2026,1,1,Grande
+2026-222,172,2026-01-07,4,3,740151,2220453,App,Monitor,1,Tecnología,2026,1,1,Grande
+2026-223,151,2026-01-13,3,2,637797,1275594,Web,Teclado,2,Accesorios,2026,1,1,Grande
+2026-224,21,2026-02-02,1,3,458402,1375206,App,Notebook,1,Tecnología,2026,2,1,Grande
+2026-225,3,2026-02-04,3,4,198392,793568,App,Teclado,2,Accesorios,2026,2,1,Mediana
+2026-226,454,2026-02-02,1,4,246502,986008,Tienda Física,Notebook,1,Tecnología,2026,2,1,Mediana
+2026-227,24,2026-01-13,5,1,569849,569849,Tienda Física,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-228,332,2026-01-30,5,1,261227,261227,App,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-229,44,2026-02-18,3,3,760310,2280930,Tienda Física,Teclado,2,Accesorios,2026,2,1,Grande
+2026-230,316,2026-02-25,2,1,137192,137192,Tienda Física,Mouse,2,Accesorios,2026,2,1,Pequeña
+2026-231,357,2026-02-02,3,4,461457,1845828,Tienda Física,Teclado,2,Accesorios,2026,2,1,Grande
+2026-232,445,2026-02-01,3,3,760782,2282346,App,Teclado,2,Accesorios,2026,2,1,Grande
+2026-233,401,2026-02-11,2,3,779606,2338818,App,Mouse,2,Accesorios,2026,2,1,Grande
+2026-234,245,2026-02-04,3,2,610139,1220278,Tienda Física,Teclado,2,Accesorios,2026,2,1,Grande
+2026-235,317,2026-01-25,4,1,216659,216659,App,Monitor,1,Tecnología,2026,1,1,Mediana
+2026-236,223,2026-02-22,4,2,420789,841578,Tienda Física,Monitor,1,Tecnología,2026,2,1,Mediana
+2026-237,175,2026-01-17,1,3,389989,1169967,App,Notebook,1,Tecnología,2026,1,1,Grande
+2026-238,206,2026-01-13,1,2,244745,489490,Tienda Física,Notebook,1,Tecnología,2026,1,1,Mediana
+2026-239,43,2026-01-13,2,4,779646,3118584,Tienda Física,Mouse,2,Accesorios,2026,1,1,Grande
+2026-240,438,2026-02-10,2,3,41017,123051,Tienda Física,Mouse,2,Accesorios,2026,2,1,Pequeña
+2026-241,271,2026-02-12,4,4,410850,1643400,Web,Monitor,1,Tecnología,2026,2,1,Grande
+2026-242,194,2026-01-13,2,4,730566,2922264,Web,Mouse,2,Accesorios,2026,1,1,Grande
+2026-243,491,2026-01-31,3,3,682633,2047899,App,Teclado,2,Accesorios,2026,1,1,Grande
+2026-244,381,2026-02-01,4,1,600555,600555,App,Monitor,1,Tecnología,2026,2,1,Mediana
+2026-245,370,2026-01-09,2,4,762254,3049016,Tienda Física,Mouse,2,Accesorios,2026,1,1,Grande
+2026-246,114,2026-01-03,3,3,701495,2104485,Web,Teclado,2,Accesorios,2026,1,1,Grande
+2026-247,194,2026-01-22,6,1,384195,384195,Web,Tablet,1,Tecnología,2026,1,1,Mediana
+2026-248,244,2026-01-11,6,2,391977,783954,App,Tablet,1,Tecnología,2026,1,1,Mediana
+2026-249,17,2026-01-13,4,3,733486,2200458,App,Monitor,1,Tecnología,2026,1,1,Grande
+2026-250,419,2026-02-17,3,2,499572,999144,App,Teclado,2,Accesorios,2026,2,1,Mediana
+2026-251,368,2026-02-24,1,1,394922,394922,Tienda Física,Notebook,1,Tecnología,2026,2,1,Mediana
+2026-252,372,2026-01-28,5,2,446770,893540,Tienda Física,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-253,381,2026-01-15,6,1,798427,798427,Web,Tablet,1,Tecnología,2026,1,1,Mediana
+2026-254,308,2026-02-20,3,2,401776,803552,Tienda Física,Teclado,2,Accesorios,2026,2,1,Mediana
+2026-255,55,2026-01-29,5,3,649218,1947654,Web,Audífonos,2,Accesorios,2026,1,1,Grande
+2026-256,215,2026-02-12,4,3,58591,175773,App,Monitor,1,Tecnología,2026,2,1,Pequeña
+2026-257,139,2026-01-01,3,3,174486,523458,Web,Teclado,2,Accesorios,2026,1,1,Mediana
+2026-258,96,2026-02-14,1,1,745062,745062,Tienda Física,Notebook,1,Tecnología,2026,2,1,Mediana
+2026-259,349,2026-01-07,4,2,576752,1153504,Tienda Física,Monitor,1,Tecnología,2026,1,1,Grande
+2026-260,416,2026-02-20,6,4,382598,1530392,Web,Tablet,1,Tecnología,2026,2,1,Grande
+2026-261,36,2026-01-27,3,1,385665,385665,Web,Teclado,2,Accesorios,2026,1,1,Mediana
+2026-262,111,2026-02-05,1,4,113565,454260,Web,Notebook,1,Tecnología,2026,2,1,Mediana
+2026-263,471,2026-01-15,5,4,2181601,8726404,App,Audífonos,2,Accesorios,2026,1,1,Grande
+2026-264,161,2026-01-29,3,3,270300,810900,Web,Teclado,2,Accesorios,2026,1,1,Mediana
+2026-265,454,2026-02-10,2,2,594808,1189616,Web,Mouse,2,Accesorios,2026,2,1,Grande
+2026-266,401,2026-01-30,1,4,295356,1181424,App,Notebook,1,Tecnología,2026,1,1,Grande
+2026-267,458,2026-02-05,3,1,126481,126481,Tienda Física,Teclado,2,Accesorios,2026,2,1,Pequeña
+2026-268,391,2026-02-25,2,3,792702,2378106,App,Mouse,2,Accesorios,2026,2,1,Grande
+2026-269,131,2026-01-31,6,3,692433,2077299,Tienda Física,Tablet,1,Tecnología,2026,1,1,Grande
+2026-270,478,2026-01-07,3,2,542669,1085338,Web,Teclado,2,Accesorios,2026,1,1,Grande
+2026-271,24,2026-02-13,4,3,703852,2111556,Web,Monitor,1,Tecnología,2026,2,1,Grande
+2026-272,55,2026-01-29,5,2,375213,750426,App,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-273,211,2026-02-20,2,1,694765,694765,Web,Mouse,2,Accesorios,2026,2,1,Mediana
+2026-274,158,2026-02-12,3,3,27529,82587,Tienda Física,Teclado,2,Accesorios,2026,2,1,Pequeña
+2026-275,381,2026-02-22,1,1,716376,716376,Web,Notebook,1,Tecnología,2026,2,1,Mediana
+2026-276,362,2026-01-05,5,3,175301,525903,Web,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-277,483,2026-01-20,3,3,692527,2077581,App,Teclado,2,Accesorios,2026,1,1,Grande
+2026-278,269,2026-02-23,5,3,294732,884196,Web,Audífonos,2,Accesorios,2026,2,1,Mediana
+2026-279,95,2026-01-21,1,2,672997,1345994,Tienda Física,Notebook,1,Tecnología,2026,1,1,Grande
+2026-280,2,2026-02-03,2,1,786385,786385,Tienda Física,Mouse,2,Accesorios,2026,2,1,Mediana
+2026-281,336,2026-02-26,3,4,674406,2697624,App,Teclado,2,Accesorios,2026,2,1,Grande
+2026-282,212,2026-02-11,1,2,136417,272834,Tienda Física,Notebook,1,Tecnología,2026,2,1,Mediana
+2026-283,221,2026-02-26,1,2,636679,1273358,Tienda Física,Notebook,1,Tecnología,2026,2,1,Grande
+2026-284,440,2026-02-14,4,4,153635,614540,App,Monitor,1,Tecnología,2026,2,1,Mediana
+2026-285,88,2026-01-14,3,2,235784,471568,Web,Teclado,2,Accesorios,2026,1,1,Mediana
+2026-286,141,2026-02-23,4,3,670715,2012145,Tienda Física,Monitor,1,Tecnología,2026,2,1,Grande
+2026-287,200,2026-02-23,2,2,229678,459356,App,Mouse,2,Accesorios,2026,2,1,Mediana
+2026-288,492,2026-01-23,5,2,295385,590770,Tienda Física,Audífonos,2,Accesorios,2026,1,1,Mediana
+2026-289,416,2026-02-10,4,2,458540,917080,Tienda Física,Monitor,1,Tecnología,2026,2,1,Mediana
+2026-290,430,2026-01-08,2,1,758371,758371,Tienda Física,Mouse,2,Accesorios,2026,1,1,Mediana
+2026-291,326,2026-01-18,3,4,300667,1202668,Tienda Física,Teclado,2,Accesorios,2026,1,1,Grande
+2026-292,490,2026-01-21,1,1,641256,641256,App,Notebook,1,Tecnología,2026,1,1,Mediana
+2026-293,387,2026-02-07,2,4,563838,2255352,App,Mouse,2,Accesorios,2026,2,1,Grande
+2026-294,411,2026-02-27,4,3,661712,1985136,App,Monitor,1,Tecnología,2026,2,1,Grande
+2026-295,26,2026-02-06,3,4,726861,2907444,Tienda Física,Teclado,2,Accesorios,2026,2,1,Grande
+2026-296,95,2026-01-12,3,1,351447,351447,Tienda Física,Teclado,2,Accesorios,2026,1,1,Mediana
+2026-297,249,2026-02-01,3,1,318792,318792,Tienda Física,Teclado,2,Accesorios,2026,2,1,Mediana
+2026-298,12,2026-02-20,5,4,757520,3030080,App,Audífonos,2,Accesorios,2026,2,1,Grande
+2026-299,136,2026-01-22,4,1,780008,780008,Tienda Física,Monitor,1,Tecnología,2026,1,1,Mediana
+2026-300,279,2026-02-16,4,4,499987,1999948,Tienda Física,Monitor,1,Tecnología,2026,2,1,Grande
