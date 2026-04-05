@@ -5,7 +5,9 @@ Este proyecto tiene como objetivo analizar datos para obtener insights relevante
 
 ## 📁 Estructura del Proyecto
 ├── analisis.ipynb # Notebook principal con el análisis
+
 ├── data/ # Datos utilizados (si aplica)
+
 ├── README.md # Documentación del proyecto
 
 ## ⚙️ Tecnologías Utilizadas
